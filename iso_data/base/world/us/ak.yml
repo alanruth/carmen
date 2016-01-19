@@ -1,0 +1,11 @@
+---
+- code: Anchorage
+  type: metroarea
+- code: Fairbanks
+  type: metroarea
+- code: Juneau
+  type: metroarea
+- code: Kodiak
+  type: metroarea
+- code: Ketchikan
+  type: metroarea

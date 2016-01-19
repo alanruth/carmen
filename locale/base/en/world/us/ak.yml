@@ -1,0 +1,15 @@
+---
+en:
+  world:
+    us:
+      ak:
+        anchorage:
+          name: Anchorage
+        fairbanks:
+          name: Fairbanks
+        juneau:
+          name: Juneau
+        kodiak:
+          name: Kodiak
+        ketchikan:
+          name: ketchikan
