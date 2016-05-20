@@ -1,0 +1,337 @@
+---
+en:
+  world:
+    us:
+      ca:
+        bakersfield:
+          name: Bakersfield
+          description: Bakersfield, CA
+          cbsa_name: Bakersfield, CA
+        chico:
+          name: Chico
+          description: Chico, CA
+          cbsa_name: Chico, CA
+        el_centro:
+          name: El Centro
+          description: El Centro, CA
+          cbsa_name: El Centro, CA
+        fresno:
+          name: Fresno
+          description: Fresno, CA
+          cbsa_name: Fresno, CA
+        corcoran:
+          name: Corcoran
+          description: Hanford-Corcoran, CA
+          cbsa_name: Hanford-Corcoran, CA
+        hanford:
+          name: Hanford
+          description: Hanford-Corcoran, CA
+          cbsa_name: Hanford-Corcoran, CA
+        anaheim:
+          name: Anaheim
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        arcadia:
+          name: Arcadia
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        burbank:
+          name: Burbank
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        carson:
+          name: Carson
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        costa_mesa:
+          name: Costa Mesa
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        fountain_valley:
+          name: Fountain Valley
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        gardena:
+          name: Gardena
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        glendale:
+          name: Glendale
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        irvine:
+          name: Irvine
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        long_beach:
+          name: Long Beach
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        los_angeles:
+          name: Los Angeles
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        monterey_park:
+          name: Monterey Park
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        newport_beach:
+          name: Newport Beach
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        orange:
+          name: Orange
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        pasadena:
+          name: Pasadena
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        santa_ana:
+          name: Santa Ana
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        santa_monica:
+          name: Santa Monica
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        torrance:
+          name: Torrance
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        tustin:
+          name: Tustin
+          description: Los Angeles-Long Beach-Anaheim, CA
+          cbsa_name: Los Angeles-Long Beach-Anaheim, CA
+        madera:
+          name: Madera
+          description: Madera, CA
+          cbsa_name: Madera, CA
+        merced:
+          name: Merced
+          description: Merced, CA
+          cbsa_name: Merced, CA
+        modesto:
+          name: Modesto
+          description: Modesto, CA
+          cbsa_name: Modesto, CA
+        napa:
+          name: Napa
+          description: Napa, CA
+          cbsa_name: Napa, CA
+        camarillo:
+          name: Camarillo
+          description: Oxnard-Thousand Oaks-Ventura, CA
+          cbsa_name: Oxnard-Thousand Oaks-Ventura, CA
+        oxnard:
+          name: Oxnard
+          description: Oxnard-Thousand Oaks-Ventura, CA
+          cbsa_name: Oxnard-Thousand Oaks-Ventura, CA
+        san_buenaventura_(ventura):
+          name: San Buenaventura (Ventura)
+          description: Oxnard-Thousand Oaks-Ventura, CA
+          cbsa_name: Oxnard-Thousand Oaks-Ventura, CA
+        thousand_oaks:
+          name: Thousand Oaks
+          description: Oxnard-Thousand Oaks-Ventura, CA
+          cbsa_name: Oxnard-Thousand Oaks-Ventura, CA
+        redding:
+          name: Redding
+          description: Redding, CA
+          cbsa_name: Redding, CA
+        chino:
+          name: Chino
+          description: Riverside-San Bernardino-Ontario, CA
+          cbsa_name: Riverside-San Bernardino-Ontario, CA
+        corona:
+          name: Corona
+          description: Riverside-San Bernardino-Ontario, CA
+          cbsa_name: Riverside-San Bernardino-Ontario, CA
+        ontario:
+          name: Ontario
+          description: Riverside-San Bernardino-Ontario, CA
+          cbsa_name: Riverside-San Bernardino-Ontario, CA
+        redlands:
+          name: Redlands
+          description: Riverside-San Bernardino-Ontario, CA
+          cbsa_name: Riverside-San Bernardino-Ontario, CA
+        riverside:
+          name: Riverside
+          description: Riverside-San Bernardino-Ontario, CA
+          cbsa_name: Riverside-San Bernardino-Ontario, CA
+        san_bernardino:
+          name: San Bernardino
+          description: Riverside-San Bernardino-Ontario, CA
+          cbsa_name: Riverside-San Bernardino-Ontario, CA
+        temecula:
+          name: Temecula
+          description: Riverside-San Bernardino-Ontario, CA
+          cbsa_name: Riverside-San Bernardino-Ontario, CA
+        victorville:
+          name: Victorville
+          description: Riverside-San Bernardino-Ontario, CA
+          cbsa_name: Riverside-San Bernardino-Ontario, CA
+        arden-arcade:
+          name: Arden-Arcade
+          description: Sacramento--Roseville--Arden-Arcade, CA
+          cbsa_name: Sacramento--Roseville--Arden-Arcade, CA
+        folsom:
+          name: Folsom
+          description: Sacramento--Roseville--Arden-Arcade, CA
+          cbsa_name: Sacramento--Roseville--Arden-Arcade, CA
+        rancho_cordova:
+          name: Rancho Cordova
+          description: Sacramento--Roseville--Arden-Arcade, CA
+          cbsa_name: Sacramento--Roseville--Arden-Arcade, CA
+        roseville:
+          name: Roseville
+          description: Sacramento--Roseville--Arden-Arcade, CA
+          cbsa_name: Sacramento--Roseville--Arden-Arcade, CA
+        sacramento:
+          name: Sacramento
+          description: Sacramento--Roseville--Arden-Arcade, CA
+          cbsa_name: Sacramento--Roseville--Arden-Arcade, CA
+        salinas:
+          name: Salinas
+          description: Salinas, CA
+          cbsa_name: Salinas, CA
+        carlsbad:
+          name: Carlsbad
+          description: San Diego-Carlsbad, CA
+          cbsa_name: San Diego-Carlsbad, CA
+        san_diego:
+          name: San Diego
+          description: San Diego-Carlsbad, CA
+          cbsa_name: San Diego-Carlsbad, CA
+        berkeley:
+          name: Berkeley
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        hayward:
+          name: Hayward
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        oakland:
+          name: Oakland
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        pleasanton:
+          name: Pleasanton
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        redwood_city:
+          name: Redwood City
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        san_francisco:
+          name: San Francisco
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        san_leandro:
+          name: San Leandro
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        san_rafael:
+          name: San Rafael
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        san_ramon:
+          name: San Ramon
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        south_san_francisco:
+          name: South San Francisco
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        walnut_creek:
+          name: Walnut Creek
+          description: San Francisco-Oakland-Hayward, CA
+          cbsa_name: San Francisco-Oakland-Hayward, CA
+        cupertino:
+          name: Cupertino
+          description: San Jose-Sunnyvale-Santa Clara, CA
+          cbsa_name: San Jose-Sunnyvale-Santa Clara, CA
+        milpitas:
+          name: Milpitas
+          description: San Jose-Sunnyvale-Santa Clara, CA
+          cbsa_name: San Jose-Sunnyvale-Santa Clara, CA
+        mountain_view:
+          name: Mountain View
+          description: San Jose-Sunnyvale-Santa Clara, CA
+          cbsa_name: San Jose-Sunnyvale-Santa Clara, CA
+        palo_alto:
+          name: Palo Alto
+          description: San Jose-Sunnyvale-Santa Clara, CA
+          cbsa_name: San Jose-Sunnyvale-Santa Clara, CA
+        san_jose:
+          name: San Jose
+          description: San Jose-Sunnyvale-Santa Clara, CA
+          cbsa_name: San Jose-Sunnyvale-Santa Clara, CA
+        santa_clara:
+          name: Santa Clara
+          description: San Jose-Sunnyvale-Santa Clara, CA
+          cbsa_name: San Jose-Sunnyvale-Santa Clara, CA
+        sunnyvale:
+          name: Sunnyvale
+          description: San Jose-Sunnyvale-Santa Clara, CA
+          cbsa_name: San Jose-Sunnyvale-Santa Clara, CA
+        arroyo_grande:
+          name: Arroyo Grande
+          description: San Luis Obispo-Paso Robles-Arroyo Grande, CA
+          cbsa_name: San Luis Obispo-Paso Robles-Arroyo Grande, CA
+        el_paso_de_robles_(paso_robles):
+          name: El Paso de Robles (Paso Robles)
+          description: San Luis Obispo-Paso Robles-Arroyo Grande, CA
+          cbsa_name: San Luis Obispo-Paso Robles-Arroyo Grande, CA
+        san_luis_obispo:
+          name: San Luis Obispo
+          description: San Luis Obispo-Paso Robles-Arroyo Grande, CA
+          cbsa_name: San Luis Obispo-Paso Robles-Arroyo Grande, CA
+        santa_cruz:
+          name: Santa Cruz
+          description: Santa Cruz-Watsonville, CA
+          cbsa_name: Santa Cruz-Watsonville, CA
+        watsonville:
+          name: Watsonville
+          description: Santa Cruz-Watsonville, CA
+          cbsa_name: Santa Cruz-Watsonville, CA
+        santa_barbara:
+          name: Santa Barbara
+          description: Santa Maria-Santa Barbara, CA
+          cbsa_name: Santa Maria-Santa Barbara, CA
+        santa_maria:
+          name: Santa Maria
+          description: Santa Maria-Santa Barbara, CA
+          cbsa_name: Santa Maria-Santa Barbara, CA
+        santa_rosa:
+          name: Santa Rosa
+          description: Santa Rosa, CA
+          cbsa_name: Santa Rosa, CA
+        lodi:
+          name: Lodi
+          description: Stockton-Lodi, CA
+          cbsa_name: Stockton-Lodi, CA
+        stockton:
+          name: Stockton
+          description: Stockton-Lodi, CA
+          cbsa_name: Stockton-Lodi, CA
+        fairfield:
+          name: Fairfield
+          description: Vallejo-Fairfield, CA
+          cbsa_name: Vallejo-Fairfield, CA
+        vallejo:
+          name: Vallejo
+          description: Vallejo-Fairfield, CA
+          cbsa_name: Vallejo-Fairfield, CA
+        porterville:
+          name: Porterville
+          description: Visalia-Porterville, CA
+          cbsa_name: Visalia-Porterville, CA
+        visalia:
+          name: Visalia
+          description: Visalia-Porterville, CA
+          cbsa_name: Visalia-Porterville, CA
+        yuba_city:
+          name: Yuba City
+          description: Yuba City, CA
+          cbsa_name: Yuba City, CA

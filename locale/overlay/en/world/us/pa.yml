@@ -1,0 +1,105 @@
+---
+en:
+  world:
+    us:
+      pa:
+        allentown:
+          name: Allentown
+          description: Allentown-Bethlehem-Easton, PA-NJ
+          cbsa_name: Allentown-Bethlehem-Easton, PA-NJ
+        bethlehem:
+          name: Bethlehem
+          description: Allentown-Bethlehem-Easton, PA-NJ
+          cbsa_name: Allentown-Bethlehem-Easton, PA-NJ
+        altoona:
+          name: Altoona
+          description: Altoona, PA
+          cbsa_name: Altoona, PA
+        berwick:
+          name: Berwick
+          description: Bloomsburg-Berwick, PA
+          cbsa_name: Bloomsburg-Berwick, PA
+        bloomsburg:
+          name: Bloomsburg
+          description: Bloomsburg-Berwick, PA
+          cbsa_name: Bloomsburg-Berwick, PA
+        chambersburg:
+          name: Chambersburg
+          description: Chambersburg-Waynesboro, PA
+          cbsa_name: Chambersburg-Waynesboro, PA
+        waynesboro:
+          name: Waynesboro
+          description: Chambersburg-Waynesboro, PA
+          cbsa_name: Chambersburg-Waynesboro, PA
+        east_stroudsburg:
+          name: East Stroudsburg
+          description: East Stroudsburg, PA
+          cbsa_name: East Stroudsburg, PA
+        erie:
+          name: Erie
+          description: Erie, PA
+          cbsa_name: Erie, PA
+        gettysburg:
+          name: Gettysburg
+          description: Gettysburg, PA
+          cbsa_name: Gettysburg, PA
+        carlisle:
+          name: Carlisle
+          description: Harrisburg-Carlisle, PA
+          cbsa_name: Harrisburg-Carlisle, PA
+        harrisburg:
+          name: Harrisburg
+          description: Harrisburg-Carlisle, PA
+          cbsa_name: Harrisburg-Carlisle, PA
+        johnstown:
+          name: Johnstown
+          description: Johnstown, PA
+          cbsa_name: Johnstown, PA
+        lancaster:
+          name: Lancaster
+          description: Lancaster, PA
+          cbsa_name: Lancaster, PA
+        lebanon:
+          name: Lebanon
+          description: Lebanon, PA
+          cbsa_name: Lebanon, PA
+        philadelphia:
+          name: Philadelphia
+          description: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+          cbsa_name: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+        pittsburgh:
+          name: Pittsburgh
+          description: Pittsburgh, PA
+          cbsa_name: Pittsburgh, PA
+        reading:
+          name: Reading
+          description: Reading, PA
+          cbsa_name: Reading, PA
+        hazleton:
+          name: Hazleton
+          description: Scranton--Wilkes-Barre--Hazleton, PA
+          cbsa_name: Scranton--Wilkes-Barre--Hazleton, PA
+        scranton:
+          name: Scranton
+          description: Scranton--Wilkes-Barre--Hazleton, PA
+          cbsa_name: Scranton--Wilkes-Barre--Hazleton, PA
+        wilkes-barre:
+          name: Wilkes-Barre
+          description: Scranton--Wilkes-Barre--Hazleton, PA
+          cbsa_name: Scranton--Wilkes-Barre--Hazleton, PA
+        state_college:
+          name: State College
+          description: State College, PA
+          cbsa_name: State College, PA
+        williamsport:
+          name: Williamsport
+          description: Williamsport, PA
+          cbsa_name: Williamsport, PA
+        hanover:
+          name: Hanover
+          description: York-Hanover, PA
+          cbsa_name: York-Hanover, PA
+        york:
+          name: York
+          description: York-Hanover, PA
+          cbsa_name: York-Hanover, PA

@@ -1,0 +1,19 @@
+---
+- code: beckley
+  type: metroarea
+- code: charleston
+  type: metroarea
+- code: martinsburg
+  type: metroarea
+- code: huntington
+  type: metroarea
+- code: morgantown
+  type: metroarea
+- code: parkersburg
+  type: metroarea
+- code: vienna
+  type: metroarea
+- code: weirton
+  type: metroarea
+- code: wheeling
+  type: metroarea

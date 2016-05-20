@@ -1,0 +1,81 @@
+---
+en:
+  world:
+    us:
+      ny:
+        albany:
+          name: Albany
+          description: Albany-Schenectady-Troy, NY
+          cbsa_name: Albany-Schenectady-Troy, NY
+        schenectady:
+          name: Schenectady
+          description: Albany-Schenectady-Troy, NY
+          cbsa_name: Albany-Schenectady-Troy, NY
+        troy:
+          name: Troy
+          description: Albany-Schenectady-Troy, NY
+          cbsa_name: Albany-Schenectady-Troy, NY
+        binghamton:
+          name: Binghamton
+          description: Binghamton, NY
+          cbsa_name: Binghamton, NY
+        buffalo:
+          name: Buffalo
+          description: Buffalo-Cheektowaga-Niagara Falls, NY
+          cbsa_name: Buffalo-Cheektowaga-Niagara Falls, NY
+        cheektowaga:
+          name: Cheektowaga
+          description: Buffalo-Cheektowaga-Niagara Falls, NY
+          cbsa_name: Buffalo-Cheektowaga-Niagara Falls, NY
+        niagara_falls:
+          name: Niagara Falls
+          description: Buffalo-Cheektowaga-Niagara Falls, NY
+          cbsa_name: Buffalo-Cheektowaga-Niagara Falls, NY
+        elmira:
+          name: Elmira
+          description: Elmira, NY
+          cbsa_name: Elmira, NY
+        glens_falls:
+          name: Glens Falls
+          description: Glens Falls, NY
+          cbsa_name: Glens Falls, NY
+        ithaca:
+          name: Ithaca
+          description: Ithaca, NY
+          cbsa_name: Ithaca, NY
+        kingston:
+          name: Kingston
+          description: Kingston, NY
+          cbsa_name: Kingston, NY
+        new_york:
+          name: New York
+          description: New York-Newark-Jersey City, NY-NJ-PA
+          cbsa_name: New York-Newark-Jersey City, NY-NJ-PA
+        white_plains:
+          name: White Plains
+          description: New York-Newark-Jersey City, NY-NJ-PA
+          cbsa_name: New York-Newark-Jersey City, NY-NJ-PA
+        rochester:
+          name: Rochester
+          description: Rochester, NY
+          cbsa_name: Rochester, NY
+        syracuse:
+          name: Syracuse
+          description: Syracuse, NY
+          cbsa_name: Syracuse, NY
+        rome:
+          name: Rome
+          description: Utica-Rome, NY
+          cbsa_name: Utica-Rome, NY
+        utica:
+          name: Utica
+          description: Utica-Rome, NY
+          cbsa_name: Utica-Rome, NY
+        fort_drum:
+          name: Fort Drum
+          description: Watertown-Fort Drum, NY
+          cbsa_name: Watertown-Fort Drum, NY
+        watertown:
+          name: Watertown
+          description: Watertown-Fort Drum, NY
+          cbsa_name: Watertown-Fort Drum, NY

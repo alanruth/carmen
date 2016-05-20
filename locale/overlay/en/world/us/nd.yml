@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    us:
+      nd:
+        bismarck:
+          name: Bismarck
+          description: Bismarck, ND
+          cbsa_name: Bismarck, ND
+        fargo:
+          name: Fargo
+          description: Fargo, ND-MN
+          cbsa_name: Fargo, ND-MN
+        grand_forks:
+          name: Grand Forks
+          description: Grand Forks, ND-MN
+          cbsa_name: Grand Forks, ND-MN

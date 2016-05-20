@@ -1,0 +1,105 @@
+---
+en:
+  world:
+    us:
+      wa:
+        richland:
+          name: Richland
+          description: Kennewick-Richland, WA
+          cbsa_name: Kennewick-Richland, WA
+        anacortes:
+          name: Anacortes
+          description: Mount Vernon-Anacortes, WA
+          cbsa_name: Mount Vernon-Anacortes, WA
+        mount_vernon:
+          name: Mount Vernon
+          description: Mount Vernon-Anacortes, WA
+          cbsa_name: Mount Vernon-Anacortes, WA
+        olympia:
+          name: Olympia
+          description: Olympia-Tumwater, WA
+          cbsa_name: Olympia-Tumwater, WA
+        tumwater:
+          name: Tumwater
+          description: Olympia-Tumwater, WA
+          cbsa_name: Olympia-Tumwater, WA
+        vancouver:
+          name: Vancouver
+          description: Portland-Vancouver-Hillsboro, OR-WA
+          cbsa_name: Portland-Vancouver-Hillsboro, OR-WA
+        auburn:
+          name: Auburn
+          description: Seattle-Tacoma-Bellevue, WA
+          cbsa_name: Seattle-Tacoma-Bellevue, WA
+        bellevue:
+          name: Bellevue
+          description: Seattle-Tacoma-Bellevue, WA
+          cbsa_name: Seattle-Tacoma-Bellevue, WA
+        everett:
+          name: Everett
+          description: Seattle-Tacoma-Bellevue, WA
+          cbsa_name: Seattle-Tacoma-Bellevue, WA
+        kent:
+          name: Kent
+          description: Seattle-Tacoma-Bellevue, WA
+          cbsa_name: Seattle-Tacoma-Bellevue, WA
+        lakewood:
+          name: Lakewood
+          description: Seattle-Tacoma-Bellevue, WA
+          cbsa_name: Seattle-Tacoma-Bellevue, WA
+        redmond:
+          name: Redmond
+          description: Seattle-Tacoma-Bellevue, WA
+          cbsa_name: Seattle-Tacoma-Bellevue, WA
+        renton:
+          name: Renton
+          description: Seattle-Tacoma-Bellevue, WA
+          cbsa_name: Seattle-Tacoma-Bellevue, WA
+        seattle:
+          name: Seattle
+          description: Seattle-Tacoma-Bellevue, WA
+          cbsa_name: Seattle-Tacoma-Bellevue, WA
+        tacoma:
+          name: Tacoma
+          description: Seattle-Tacoma-Bellevue, WA
+          cbsa_name: Seattle-Tacoma-Bellevue, WA
+        spokane:
+          name: Spokane
+          description: Spokane-Spokane Valley, WA
+          cbsa_name: Spokane-Spokane Valley, WA
+        spokane_valley:
+          name: Spokane Valley
+          description: Spokane-Spokane Valley, WA
+          cbsa_name: Spokane-Spokane Valley, WA
+        walla_walla:
+          name: Walla Walla
+          description: Walla Walla, WA
+          cbsa_name: Walla Walla, WA
+        wenatchee:
+          name: Wenatchee
+          description: Wenatchee, WA
+          cbsa_name: Wenatchee, WA
+        yakima:
+          name: Yakima
+          description: Yakima, WA
+          cbsa_name: Yakima, WA
+        bellingham:
+          name: Bellingham
+          description: Bellingham, WA
+          cbsa_name: Bellingham, WA
+        bremerton:
+          name: Bremerton
+          description: Bremerton-Silverdale, WA
+          cbsa_name: Bremerton-Silverdale, WA
+        silverdale:
+          name: Silverdale
+          description: Bremerton-Silverdale, WA
+          cbsa_name: Bremerton-Silverdale, WA
+        kennewick:
+          name: Kennewick
+          description: Kennewick-Richland, WA
+          cbsa_name: Kennewick-Richland, WA
+        longview:
+          name: Longview
+          description: Longview, WA
+          cbsa_name: Longview, WA

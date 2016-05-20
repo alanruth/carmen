@@ -1,0 +1,181 @@
+---
+en:
+  world:
+    us:
+      tx:
+        abilene:
+          name: Abilene
+          description: Abilene, TX
+          cbsa_name: Abilene, TX
+        amarillo:
+          name: Amarillo
+          description: Amarillo, TX
+          cbsa_name: Amarillo, TX
+        austin:
+          name: Austin
+          description: Austin-Round Rock, TX
+          cbsa_name: Austin-Round Rock, TX
+        round_rock:
+          name: Round Rock
+          description: Austin-Round Rock, TX
+          cbsa_name: Austin-Round Rock, TX
+        beaumont:
+          name: Beaumont
+          description: Beaumont-Port Arthur, TX
+          cbsa_name: Beaumont-Port Arthur, TX
+        port_arthur:
+          name: Port Arthur
+          description: Beaumont-Port Arthur, TX
+          cbsa_name: Beaumont-Port Arthur, TX
+        brownsville:
+          name: Brownsville
+          description: Brownsville-Harlingen, TX
+          cbsa_name: Brownsville-Harlingen, TX
+        harlingen:
+          name: Harlingen
+          description: Brownsville-Harlingen, TX
+          cbsa_name: Brownsville-Harlingen, TX
+        bryan:
+          name: Bryan
+          description: College Station-Bryan, TX
+          cbsa_name: College Station-Bryan, TX
+        college_station:
+          name: College Station
+          description: College Station-Bryan, TX
+          cbsa_name: College Station-Bryan, TX
+        corpus_christi:
+          name: Corpus Christi
+          description: Corpus Christi, TX
+          cbsa_name: Corpus Christi, TX
+        arlington:
+          name: Arlington
+          description: Dallas-Fort Worth-Arlington, TX
+          cbsa_name: Dallas-Fort Worth-Arlington, TX
+        dallas:
+          name: Dallas
+          description: Dallas-Fort Worth-Arlington, TX
+          cbsa_name: Dallas-Fort Worth-Arlington, TX
+        denton:
+          name: Denton
+          description: Dallas-Fort Worth-Arlington, TX
+          cbsa_name: Dallas-Fort Worth-Arlington, TX
+        fort_worth:
+          name: Fort Worth
+          description: Dallas-Fort Worth-Arlington, TX
+          cbsa_name: Dallas-Fort Worth-Arlington, TX
+        irving:
+          name: Irving
+          description: Dallas-Fort Worth-Arlington, TX
+          cbsa_name: Dallas-Fort Worth-Arlington, TX
+        plano:
+          name: Plano
+          description: Dallas-Fort Worth-Arlington, TX
+          cbsa_name: Dallas-Fort Worth-Arlington, TX
+        richardson:
+          name: Richardson
+          description: Dallas-Fort Worth-Arlington, TX
+          cbsa_name: Dallas-Fort Worth-Arlington, TX
+        el_paso:
+          name: El Paso
+          description: El Paso, TX
+          cbsa_name: El Paso, TX
+        baytown:
+          name: Baytown
+          description: Houston-The Woodlands-Sugar Land, TX
+          cbsa_name: Houston-The Woodlands-Sugar Land, TX
+        conroe:
+          name: Conroe
+          description: Houston-The Woodlands-Sugar Land, TX
+          cbsa_name: Houston-The Woodlands-Sugar Land, TX
+        houston:
+          name: Houston
+          description: Houston-The Woodlands-Sugar Land, TX
+          cbsa_name: Houston-The Woodlands-Sugar Land, TX
+        sugar_land:
+          name: Sugar Land
+          description: Houston-The Woodlands-Sugar Land, TX
+          cbsa_name: Houston-The Woodlands-Sugar Land, TX
+        the_woodlands:
+          name: The Woodlands
+          description: Houston-The Woodlands-Sugar Land, TX
+          cbsa_name: Houston-The Woodlands-Sugar Land, TX
+        killeen:
+          name: Killeen
+          description: Killeen-Temple, TX
+          cbsa_name: Killeen-Temple, TX
+        temple:
+          name: Temple
+          description: Killeen-Temple, TX
+          cbsa_name: Killeen-Temple, TX
+        laredo:
+          name: Laredo
+          description: Laredo, TX
+          cbsa_name: Laredo, TX
+        longview:
+          name: Longview
+          description: Longview, TX
+          cbsa_name: Longview, TX
+        lubbock:
+          name: Lubbock
+          description: Lubbock, TX
+          cbsa_name: Lubbock, TX
+        edinburg:
+          name: Edinburg
+          description: McAllen-Edinburg-Mission, TX
+          cbsa_name: McAllen-Edinburg-Mission, TX
+        mcallen:
+          name: McAllen
+          description: McAllen-Edinburg-Mission, TX
+          cbsa_name: McAllen-Edinburg-Mission, TX
+        mission:
+          name: Mission
+          description: McAllen-Edinburg-Mission, TX
+          cbsa_name: McAllen-Edinburg-Mission, TX
+        midland:
+          name: Midland
+          description: Midland, TX
+          cbsa_name: Midland, TX
+        odessa:
+          name: Odessa
+          description: Odessa, TX
+          cbsa_name: Odessa, TX
+        san_angelo:
+          name: San Angelo
+          description: San Angelo, TX
+          cbsa_name: San Angelo, TX
+        new_braunfels:
+          name: New Braunfels
+          description: San Antonio-New Braunfels, TX
+          cbsa_name: San Antonio-New Braunfels, TX
+        san_antonio:
+          name: San Antonio
+          description: San Antonio-New Braunfels, TX
+          cbsa_name: San Antonio-New Braunfels, TX
+        denison:
+          name: Denison
+          description: Sherman-Denison, TX
+          cbsa_name: Sherman-Denison, TX
+        sherman:
+          name: Sherman
+          description: Sherman-Denison, TX
+          cbsa_name: Sherman-Denison, TX
+        texarkana:
+          name: Texarkana
+          description: Texarkana, TX-AR
+          cbsa_name: Texarkana, TX-AR
+        tyler:
+          name: Tyler
+          description: Tyler, TX
+          cbsa_name: Tyler, TX
+        victoria:
+          name: Victoria
+          description: Victoria, TX
+          cbsa_name: Victoria, TX
+        waco:
+          name: Waco
+          description: Waco, TX
+          cbsa_name: Waco, TX
+        wichita_falls:
+          name: Wichita Falls
+          description: Wichita Falls, TX
+          cbsa_name: Wichita Falls, TX

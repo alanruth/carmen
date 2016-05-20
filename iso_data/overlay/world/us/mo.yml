@@ -1,0 +1,19 @@
+---
+- code: cape_girardeau
+  type: metroarea
+- code: columbia
+  type: metroarea
+- code: jefferson_city
+  type: metroarea
+- code: joplin
+  type: metroarea
+- code: kansas_city
+  type: metroarea
+- code: st._joseph
+  type: metroarea
+- code: st._charles
+  type: metroarea
+- code: st._louis
+  type: metroarea
+- code: springfield
+  type: metroarea

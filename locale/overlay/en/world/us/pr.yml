@@ -1,0 +1,49 @@
+---
+en:
+  world:
+    us:
+      pr:
+        aguadilla:
+          name: Aguadilla
+          description: Aguadilla-Isabela, PR
+          cbsa_name: Aguadilla-Isabela, PR
+        isabela:
+          name: Isabela
+          description: Aguadilla-Isabela, PR
+          cbsa_name: Aguadilla-Isabela, PR
+        arecibo:
+          name: Arecibo
+          description: Arecibo, PR
+          cbsa_name: Arecibo, PR
+        guayama:
+          name: Guayama
+          description: Guayama, PR
+          cbsa_name: Guayama, PR
+        mayagüez:
+          name: Mayagüez
+          description: Mayagüez, PR
+          cbsa_name: Mayagüez, PR
+        ponce:
+          name: Ponce
+          description: Ponce, PR
+          cbsa_name: Ponce, PR
+        san_germán:
+          name: San Germán
+          description: San Germán, PR
+          cbsa_name: San Germán, PR
+        caguas:
+          name: Caguas
+          description: San Juan-Carolina-Caguas, PR
+          cbsa_name: San Juan-Carolina-Caguas, PR
+        carolina:
+          name: Carolina
+          description: San Juan-Carolina-Caguas, PR
+          cbsa_name: San Juan-Carolina-Caguas, PR
+        guaynabo:
+          name: Guaynabo
+          description: San Juan-Carolina-Caguas, PR
+          cbsa_name: San Juan-Carolina-Caguas, PR
+        san_juan:
+          name: San Juan
+          description: San Juan-Carolina-Caguas, PR
+          cbsa_name: San Juan-Carolina-Caguas, PR

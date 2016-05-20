@@ -1,0 +1,13 @@
+---
+en:
+  world:
+    us:
+      sd:
+        rapid_city:
+          name: Rapid City
+          description: Rapid City, SD
+          cbsa_name: Rapid City, SD
+        sioux_falls:
+          name: Sioux Falls
+          description: Sioux Falls, SD
+          cbsa_name: Sioux Falls, SD

@@ -1,0 +1,23 @@
+---
+- code: ames
+  type: metroarea
+- code: cedar_rapids
+  type: metroarea
+- code: davenport
+  type: metroarea
+- code: des_moines
+  type: metroarea
+- code: west_des_moines
+  type: metroarea
+- code: dubuque
+  type: metroarea
+- code: iowa_city
+  type: metroarea
+- code: council_bluffs
+  type: metroarea
+- code: sioux_city
+  type: metroarea
+- code: cedar_falls
+  type: metroarea
+- code: waterloo
+  type: metroarea

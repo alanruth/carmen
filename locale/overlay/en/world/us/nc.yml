@@ -1,0 +1,89 @@
+---
+en:
+  world:
+    us:
+      nc:
+        asheville:
+          name: Asheville
+          description: Asheville, NC
+          cbsa_name: Asheville, NC
+        burlington:
+          name: Burlington
+          description: Burlington, NC
+          cbsa_name: Burlington, NC
+        charlotte:
+          name: Charlotte
+          description: Charlotte-Concord-Gastonia, NC-SC
+          cbsa_name: Charlotte-Concord-Gastonia, NC-SC
+        concord:
+          name: Concord
+          description: Charlotte-Concord-Gastonia, NC-SC
+          cbsa_name: Charlotte-Concord-Gastonia, NC-SC
+        gastonia:
+          name: Gastonia
+          description: Charlotte-Concord-Gastonia, NC-SC
+          cbsa_name: Charlotte-Concord-Gastonia, NC-SC
+        chapel_hill:
+          name: Chapel Hill
+          description: Durham-Chapel Hill, NC
+          cbsa_name: Durham-Chapel Hill, NC
+        durham:
+          name: Durham
+          description: Durham-Chapel Hill, NC
+          cbsa_name: Durham-Chapel Hill, NC
+        fayetteville:
+          name: Fayetteville
+          description: Fayetteville, NC
+          cbsa_name: Fayetteville, NC
+        goldsboro:
+          name: Goldsboro
+          description: Goldsboro, NC
+          cbsa_name: Goldsboro, NC
+        greensboro:
+          name: Greensboro
+          description: Greensboro-High Point, NC
+          cbsa_name: Greensboro-High Point, NC
+        high_point:
+          name: High Point
+          description: Greensboro-High Point, NC
+          cbsa_name: Greensboro-High Point, NC
+        greenville:
+          name: Greenville
+          description: Greenville, NC
+          cbsa_name: Greenville, NC
+        hickory:
+          name: Hickory
+          description: Hickory-Lenoir-Morganton, NC
+          cbsa_name: Hickory-Lenoir-Morganton, NC
+        lenoir:
+          name: Lenoir
+          description: Hickory-Lenoir-Morganton, NC
+          cbsa_name: Hickory-Lenoir-Morganton, NC
+        morganton:
+          name: Morganton
+          description: Hickory-Lenoir-Morganton, NC
+          cbsa_name: Hickory-Lenoir-Morganton, NC
+        jacksonville:
+          name: Jacksonville
+          description: Jacksonville, NC
+          cbsa_name: Jacksonville, NC
+        new_bern:
+          name: New Bern
+          description: New Bern, NC
+          cbsa_name: New Bern, NC
+        rocky_mount:
+          name: Rocky Mount
+          description: Rocky Mount, NC
+          cbsa_name: Rocky Mount, NC
+        wilmington:
+          name: Wilmington
+          description: Wilmington, NC
+          cbsa_name: Wilmington, NC
+        winston-salem:
+          name: Winston-Salem
+          description: Winston-Salem, NC
+          cbsa_name: Winston-Salem, NC
+        raleigh:
+          name: Raleigh
+          description: Raleigh, NC
+          cbsa_name: Raleigh, NC

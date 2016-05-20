@@ -1,0 +1,13 @@
+---
+- code: kansas_city
+  type: metroarea
+- code: overland_park
+  type: metroarea
+- code: lawrence
+  type: metroarea
+- code: manhattan
+  type: metroarea
+- code: topeka
+  type: metroarea
+- code: wichita
+  type: metroarea

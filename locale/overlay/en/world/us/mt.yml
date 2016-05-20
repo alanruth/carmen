@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    us:
+      mt:
+        billings:
+          name: Billings
+          description: Billings, MT
+          cbsa_name: Billings, MT
+        great_falls:
+          name: Great Falls
+          description: Great Falls, MT
+          cbsa_name: Great Falls, MT
+        missoula:
+          name: Missoula
+          description: Missoula, MT
+          cbsa_name: Missoula, MT

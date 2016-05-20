@@ -1,0 +1,7 @@
+---
+- code: bismarck
+  type: metroarea
+- code: fargo
+  type: metroarea
+- code: grand_forks
+  type: metroarea

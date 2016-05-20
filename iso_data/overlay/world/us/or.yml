@@ -1,0 +1,23 @@
+---
+- code: albany
+  type: metroarea
+- code: bend
+  type: metroarea
+- code: redmond
+  type: metroarea
+- code: corvallis
+  type: metroarea
+- code: eugene
+  type: metroarea
+- code: grants_pass
+  type: metroarea
+- code: medford
+  type: metroarea
+- code: beaverton
+  type: metroarea
+- code: hillsboro
+  type: metroarea
+- code: portland
+  type: metroarea
+- code: salem
+  type: metroarea

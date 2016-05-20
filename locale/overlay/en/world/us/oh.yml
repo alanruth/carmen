@@ -1,0 +1,69 @@
+---
+en:
+  world:
+    us:
+      oh:
+        akron:
+          name: Akron
+          description: Akron, OH
+          cbsa_name: Akron, OH
+        canton:
+          name: Canton
+          description: Canton-Massillon, OH
+          cbsa_name: Canton-Massillon, OH
+        massillon:
+          name: Massillon
+          description: Canton-Massillon, OH
+          cbsa_name: Canton-Massillon, OH
+        cincinnati:
+          name: Cincinnati
+          description: Cincinnati, OH-KY-IN
+          cbsa_name: Cincinnati, OH-KY-IN
+        cleveland:
+          name: Cleveland
+          description: Cleveland-Elyria, OH
+          cbsa_name: Cleveland-Elyria, OH
+        elyria:
+          name: Elyria
+          description: Cleveland-Elyria, OH
+          cbsa_name: Cleveland-Elyria, OH
+        columbus:
+          name: Columbus
+          description: Columbus, OH
+          cbsa_name: Columbus, OH
+        dayton:
+          name: Dayton
+          description: Dayton, OH
+          cbsa_name: Dayton, OH
+        lima:
+          name: Lima
+          description: Lima, OH
+          cbsa_name: Lima, OH
+        mansfield:
+          name: Mansfield
+          description: Mansfield, OH
+          cbsa_name: Mansfield, OH
+        springfield:
+          name: Springfield
+          description: Springfield, OH
+          cbsa_name: Springfield, OH
+        toledo:
+          name: Toledo
+          description: Toledo, OH
+          cbsa_name: Toledo, OH
+        steubenville:
+          name: Steubenville
+          description: Weirton-Steubenville, WV-OH
+          cbsa_name: Weirton-Steubenville, WV-OH
+        boardman:
+          name: Boardman
+          description: Youngstown-Warren-Boardman, OH-PA
+          cbsa_name: Youngstown-Warren-Boardman, OH-PA
+        warren:
+          name: Warren
+          description: Youngstown-Warren-Boardman, OH-PA
+          cbsa_name: Youngstown-Warren-Boardman, OH-PA
+        youngstown:
+          name: Youngstown
+          description: Youngstown-Warren-Boardman, OH-PA
+          cbsa_name: Youngstown-Warren-Boardman, OH-PA

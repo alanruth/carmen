@@ -1,0 +1,45 @@
+---
+en:
+  world:
+    us:
+      co:
+        boulder:
+          name: Boulder
+          description: Boulder, CO
+          cbsa_name: Boulder, CO
+        colorado_springs:
+          name: Colorado Springs
+          description: Colorado Springs, CO
+          cbsa_name: Colorado Springs, CO
+        aurora:
+          name: Aurora
+          description: Denver-Aurora-Lakewood, CO
+          cbsa_name: Denver-Aurora-Lakewood, CO
+        broomfield:
+          name: Broomfield
+          description: Denver-Aurora-Lakewood, CO
+          cbsa_name: Denver-Aurora-Lakewood, CO
+        denver:
+          name: Denver
+          description: Denver-Aurora-Lakewood, CO
+          cbsa_name: Denver-Aurora-Lakewood, CO
+        lakewood:
+          name: Lakewood
+          description: Denver-Aurora-Lakewood, CO
+          cbsa_name: Denver-Aurora-Lakewood, CO
+        fort_collins:
+          name: Fort Collins
+          description: Fort Collins, CO
+          cbsa_name: Fort Collins, CO
+        grand_junction:
+          name: Grand Junction
+          description: Grand Junction, CO
+          cbsa_name: Grand Junction, CO
+        greeley:
+          name: Greeley
+          description: Greeley, CO
+          cbsa_name: Greeley, CO
+        pueblo:
+          name: Pueblo
+          description: Pueblo, CO
+          cbsa_name: Pueblo, CO

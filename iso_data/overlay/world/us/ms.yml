@@ -1,0 +1,11 @@
+---
+- code: jackson
+  type: metroarea
+- code: biloxi
+  type: metroarea
+- code: gulfport
+  type: metroarea
+- code: pascagoula
+  type: metroarea
+- code: hattiesburg
+  type: metroarea

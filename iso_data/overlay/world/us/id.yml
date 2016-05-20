@@ -1,0 +1,11 @@
+---
+- code: boise_city
+  type: metroarea
+- code: coeur_dalene
+  type: metroarea
+- code: idaho_falls
+  type: metroarea
+- code: lewiston
+  type: metroarea
+- code: pocatello
+  type: metroarea

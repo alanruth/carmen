@@ -1,0 +1,73 @@
+---
+en:
+  world:
+    us:
+      wi:
+        neenah:
+          name: Neenah
+          description: Oshkosh-Neenah, WI
+          cbsa_name: Oshkosh-Neenah, WI
+        appleton:
+          name: Appleton
+          description: Appleton, WI
+          cbsa_name: Appleton, WI
+        eau_claire:
+          name: Eau Claire
+          description: Eau Claire, WI
+          cbsa_name: Eau Claire, WI
+        fond_du_lac:
+          name: Fond du Lac
+          description: Fond du Lac, WI
+          cbsa_name: Fond du Lac, WI
+        green_bay:
+          name: Green Bay
+          description: Green Bay, WI
+          cbsa_name: Green Bay, WI
+        beloit:
+          name: Beloit
+          description: Janesville-Beloit, WI
+          cbsa_name: Janesville-Beloit, WI
+        janesville:
+          name: Janesville
+          description: Janesville-Beloit, WI
+          cbsa_name: Janesville-Beloit, WI
+        la_crosse:
+          name: La Crosse
+          description: La Crosse-Onalaska, WI-MN
+          cbsa_name: La Crosse-Onalaska, WI-MN
+        onalaska:
+          name: Onalaska
+          description: La Crosse-Onalaska, WI-MN
+          cbsa_name: La Crosse-Onalaska, WI-MN
+        madison:
+          name: Madison
+          description: Madison, WI
+          cbsa_name: Madison, WI
+        milwaukee:
+          name: Milwaukee
+          description: Milwaukee-Waukesha-West Allis, WI
+          cbsa_name: Milwaukee-Waukesha-West Allis, WI
+        waukesha:
+          name: Waukesha
+          description: Milwaukee-Waukesha-West Allis, WI
+          cbsa_name: Milwaukee-Waukesha-West Allis, WI
+        west_allis:
+          name: West Allis
+          description: Milwaukee-Waukesha-West Allis, WI
+          cbsa_name: Milwaukee-Waukesha-West Allis, WI
+        oshkosh:
+          name: Oshkosh
+          description: Oshkosh-Neenah, WI
+          cbsa_name: Oshkosh-Neenah, WI
+        racine:
+          name: Racine
+          description: Racine, WI
+          cbsa_name: Racine, WI
+        sheboygan:
+          name: Sheboygan
+          description: Sheboygan, WI
+          cbsa_name: Sheboygan, WI
+        wausau:
+          name: Wausau
+          description: Wausau, WI
+          cbsa_name: Wausau, WI

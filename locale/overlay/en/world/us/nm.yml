@@ -1,0 +1,21 @@
+---
+en:
+  world:
+    us:
+      nm:
+        albuquerque:
+          name: Albuquerque
+          description: Albuquerque, NM
+          cbsa_name: Albuquerque, NM
+        farmington:
+          name: Farmington
+          description: Farmington, NM
+          cbsa_name: Farmington, NM
+        las_cruces:
+          name: Las Cruces
+          description: Las Cruces, NM
+          cbsa_name: Las Cruces, NM
+        santa_fe:
+          name: Santa Fe
+          description: Santa Fe, NM
+          cbsa_name: Santa Fe, NM

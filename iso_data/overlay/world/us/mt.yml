@@ -1,0 +1,7 @@
+---
+- code: billings
+  type: metroarea
+- code: great_falls
+  type: metroarea
+- code: missoula
+  type: metroarea

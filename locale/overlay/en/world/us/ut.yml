@@ -1,0 +1,33 @@
+---
+en:
+  world:
+    us:
+      ut:
+        logan:
+          name: Logan
+          description: Logan, UT-ID
+          cbsa_name: Logan, UT-ID
+        clearfield:
+          name: Clearfield
+          description: Ogden-Clearfield, UT
+          cbsa_name: Ogden-Clearfield, UT
+        ogden:
+          name: Ogden
+          description: Ogden-Clearfield, UT
+          cbsa_name: Ogden-Clearfield, UT
+        orem:
+          name: Orem
+          description: Provo-Orem, UT
+          cbsa_name: Provo-Orem, UT
+        provo:
+          name: Provo
+          description: Provo-Orem, UT
+          cbsa_name: Provo-Orem, UT
+        st._george:
+          name: St. George
+          description: St. George, UT
+          cbsa_name: St. George, UT
+        salt_lake_city:
+          name: Salt Lake City
+          description: Salt Lake City, UT
+          cbsa_name: Salt Lake City, UT

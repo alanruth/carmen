@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    us:
+      me:
+        bangor:
+          name: Bangor
+          description: Bangor, ME
+          cbsa_name: Bangor, ME
+        auburn:
+          name: Auburn
+          description: Lewiston-Auburn, ME
+          cbsa_name: Lewiston-Auburn, ME
+        lewiston:
+          name: Lewiston
+          description: Lewiston-Auburn, ME
+          cbsa_name: Lewiston-Auburn, ME
+        portland:
+          name: Portland
+          description: Portland-South Portland, ME
+          cbsa_name: Portland-South Portland, ME
+        south_portland:
+          name: South Portland
+          description: Portland-South Portland, ME
+          cbsa_name: Portland-South Portland, ME

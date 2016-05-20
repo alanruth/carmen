@@ -1,0 +1,23 @@
+---
+- code: duluth
+  type: metroarea
+- code: mankato
+  type: metroarea
+- code: north_mankato
+  type: metroarea
+- code: bloomington
+  type: metroarea
+- code: eagan
+  type: metroarea
+- code: eden_prairie
+  type: metroarea
+- code: minneapolis
+  type: metroarea
+- code: plymouth
+  type: metroarea
+- code: st._paul
+  type: metroarea
+- code: rochester
+  type: metroarea
+- code: st._cloud
+  type: metroarea

@@ -1,0 +1,85 @@
+---
+en:
+  world:
+    us:
+      va:
+        blacksburg:
+          name: Blacksburg
+          description: Blacksburg-Christiansburg-Radford, VA
+          cbsa_name: Blacksburg-Christiansburg-Radford, VA
+        christiansburg:
+          name: Christiansburg
+          description: Blacksburg-Christiansburg-Radford, VA
+          cbsa_name: Blacksburg-Christiansburg-Radford, VA
+        radford:
+          name: Radford
+          description: Blacksburg-Christiansburg-Radford, VA
+          cbsa_name: Blacksburg-Christiansburg-Radford, VA
+        charlottesville:
+          name: Charlottesville
+          description: Charlottesville, VA
+          cbsa_name: Charlottesville, VA
+        harrisonburg:
+          name: Harrisonburg
+          description: Harrisonburg, VA
+          cbsa_name: Harrisonburg, VA
+        bristol:
+          name: Bristol
+          description: Kingsport-Bristol-Bristol, TN-VA
+          cbsa_name: Kingsport-Bristol-Bristol, TN-VA
+        lynchburg:
+          name: Lynchburg
+          description: Lynchburg, VA
+          cbsa_name: Lynchburg, VA
+        richmond:
+          name: Richmond
+          description: Richmond, VA
+          cbsa_name: Richmond, VA
+        roanoke:
+          name: Roanoke
+          description: Roanoke, VA
+          cbsa_name: Roanoke, VA
+        staunton:
+          name: Staunton
+          description: Staunton-Waynesboro, VA
+          cbsa_name: Staunton-Waynesboro, VA
+        waynesboro:
+          name: Waynesboro
+          description: Staunton-Waynesboro, VA
+          cbsa_name: Staunton-Waynesboro, VA
+        hampton:
+          name: Hampton
+          description: Virginia Beach-Norfolk-Newport News, VA-NC
+          cbsa_name: Virginia Beach-Norfolk-Newport News, VA-NC
+        newport_news:
+          name: Newport News
+          description: Virginia Beach-Norfolk-Newport News, VA-NC
+          cbsa_name: Virginia Beach-Norfolk-Newport News, VA-NC
+        norfolk:
+          name: Norfolk
+          description: Virginia Beach-Norfolk-Newport News, VA-NC
+          cbsa_name: Virginia Beach-Norfolk-Newport News, VA-NC
+        portsmouth:
+          name: Portsmouth
+          description: Virginia Beach-Norfolk-Newport News, VA-NC
+          cbsa_name: Virginia Beach-Norfolk-Newport News, VA-NC
+        virginia_beach:
+          name: Virginia Beach
+          description: Virginia Beach-Norfolk-Newport News, VA-NC
+          cbsa_name: Virginia Beach-Norfolk-Newport News, VA-NC
+        alexandria:
+          name: Alexandria
+          description: Washington-Arlington-Alexandria, DC-VA-MD-WV
+          cbsa_name: Washington-Arlington-Alexandria, DC-VA-MD-WV
+        arlington:
+          name: Arlington
+          description: Washington-Arlington-Alexandria, DC-VA-MD-WV
+          cbsa_name: Washington-Arlington-Alexandria, DC-VA-MD-WV
+        reston:
+          name: Reston
+          description: Washington-Arlington-Alexandria, DC-VA-MD-WV
+          cbsa_name: Washington-Arlington-Alexandria, DC-VA-MD-WV
+        winchester:
+          name: Winchester
+          description: Winchester, VA-WV
+          cbsa_name: Winchester, VA-WV

@@ -1,0 +1,23 @@
+---
+- code: bentonville
+  type: metroarea
+- code: fayetteville
+  type: metroarea
+- code: rogers
+  type: metroarea
+- code: springdale
+  type: metroarea
+- code: fort_smith
+  type: metroarea
+- code: hot_springs
+  type: metroarea
+- code: jonesboro
+  type: metroarea
+- code: conway
+  type: metroarea
+- code: little_rock
+  type: metroarea
+- code: north_little_rock
+  type: metroarea
+- code: pine_bluff
+  type: metroarea

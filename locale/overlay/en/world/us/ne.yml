@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    us:
+      ne:
+        grand_island:
+          name: Grand Island
+          description: Grand Island, NE
+          cbsa_name: Grand Island, NE
+        lincoln:
+          name: Lincoln
+          description: Lincoln, NE
+          cbsa_name: Lincoln, NE
+        omaha:
+          name: Omaha
+          description: Omaha-Council Bluffs, NE-IA
+          cbsa_name: Omaha-Council Bluffs, NE-IA

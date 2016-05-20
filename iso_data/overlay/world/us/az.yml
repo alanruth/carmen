@@ -1,0 +1,25 @@
+---
+- code: tempe
+  type: metroarea
+- code: prescott
+  type: metroarea
+- code: douglas
+  type: metroarea
+- code: sierra_vista
+  type: metroarea
+- code: tucson
+  type: metroarea
+- code: yuma
+  type: metroarea
+- code: flagstaff
+  type: metroarea
+- code: kingman
+  type: metroarea
+- code: lake_havasu_city
+  type: metroarea
+- code: mesa
+  type: metroarea
+- code: phoenix
+  type: metroarea
+- code: scottsdale
+  type: metroarea

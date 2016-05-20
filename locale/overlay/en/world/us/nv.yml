@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    us:
+      nv:
+        carson_city:
+          name: Carson City
+          description: Carson City, NV
+          cbsa_name: Carson City, NV
+        henderson:
+          name: Henderson
+          description: Las Vegas-Henderson-Paradise, NV
+          cbsa_name: Las Vegas-Henderson-Paradise, NV
+        las_vegas:
+          name: Las Vegas
+          description: Las Vegas-Henderson-Paradise, NV
+          cbsa_name: Las Vegas-Henderson-Paradise, NV
+        paradise:
+          name: Paradise
+          description: Las Vegas-Henderson-Paradise, NV
+          cbsa_name: Las Vegas-Henderson-Paradise, NV
+        reno:
+          name: Reno
+          description: Reno, NV
+          cbsa_name: Reno, NV

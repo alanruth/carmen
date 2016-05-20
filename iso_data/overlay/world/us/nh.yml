@@ -1,0 +1,7 @@
+---
+- code: manchester
+  type: metroarea
+- code: nashua
+  type: metroarea
+- code: hammonton
+  type: metroarea

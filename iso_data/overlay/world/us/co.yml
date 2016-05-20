@@ -1,0 +1,23 @@
+---
+- code: boulder
+  type: metroarea
+- code: colorado_springs
+  type: metroarea
+- code: aurora
+  type: metroarea
+- code: broomfield
+  type: metroarea
+- code: denver
+  type: metroarea
+- code: lakewood
+  type: metroarea
+- code: fort_collins
+  type: metroarea
+- code: grand_junction
+  type: metroarea
+- code: greeley
+  type: metroarea
+- code: pueblo
+  type: metroarea
+- code: denver
+  type: metroarea

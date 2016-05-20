@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    us:
+      nh:
+        manchester:
+          name: Manchester
+          description: Manchester-Nashua, NH
+          cbsa_name: Manchester-Nashua, NH
+        nashua:
+          name: Nashua
+          description: Manchester-Nashua, NH
+          cbsa_name: Manchester-Nashua, NH
+        hammonton:
+          name: Hammonton
+          description: Atlantic City-Hammonton, NJ
+          cbsa_name: Atlantic City-Hammonton, NJ

@@ -20,6 +20,14 @@ module Carmen
       Carmen.i18n_backend.translate(path('name'))
     end
 
+    def description
+      Carmen.i18n_backend.translate(path('description'))
+    end
+
+    def cbsa_name
+      Carmen.i18n_backend.translate(path('cbsa_name'))
+    end
+
     def subregions
       @subregions ||= load_subregions.freeze
     end

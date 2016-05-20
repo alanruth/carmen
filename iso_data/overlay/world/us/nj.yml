@@ -1,0 +1,21 @@
+---
+- code: atlantic_city
+  type: metroarea
+- code: jersey_city
+  type: metroarea
+- code: lakewood
+  type: metroarea
+- code: newark
+  type: metroarea
+- code: new_brunswick
+  type: metroarea
+- code: ocean_city
+  type: metroarea
+- code: camden
+  type: metroarea
+- code: trenton
+  type: metroarea
+- code: bridgeton
+  type: metroarea
+- code: vineland
+  type: metroarea

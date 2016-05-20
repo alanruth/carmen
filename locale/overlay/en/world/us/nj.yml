@@ -1,0 +1,45 @@
+---
+en:
+  world:
+    us:
+      nj:
+        atlantic_city:
+          name: Atlantic City
+          description: Atlantic City-Hammonton, NJ
+          cbsa_name: Atlantic City-Hammonton, NJ
+        jersey_city:
+          name: Jersey City
+          description: New York-Newark-Jersey City, NY-NJ-PA
+          cbsa_name: New York-Newark-Jersey City, NY-NJ-PA
+        lakewood:
+          name: Lakewood
+          description: New York-Newark-Jersey City, NY-NJ-PA
+          cbsa_name: New York-Newark-Jersey City, NY-NJ-PA
+        newark:
+          name: Newark
+          description: New York-Newark-Jersey City, NY-NJ-PA
+          cbsa_name: New York-Newark-Jersey City, NY-NJ-PA
+        new_brunswick:
+          name: New Brunswick
+          description: New York-Newark-Jersey City, NY-NJ-PA
+          cbsa_name: New York-Newark-Jersey City, NY-NJ-PA
+        ocean_city:
+          name: Ocean City
+          description: Ocean City, NJ
+          cbsa_name: Ocean City, NJ
+        camden:
+          name: Camden
+          description: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+          cbsa_name: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+        trenton:
+          name: Trenton
+          description: Trenton, NJ
+          cbsa_name: Trenton, NJ
+        bridgeton:
+          name: Bridgeton
+          description: Vineland-Bridgeton, NJ
+          cbsa_name: Vineland-Bridgeton, NJ
+        vineland:
+          name: Vineland
+          description: Vineland-Bridgeton, NJ
+          cbsa_name: Vineland-Bridgeton, NJ

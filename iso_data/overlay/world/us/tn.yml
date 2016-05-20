@@ -1,0 +1,27 @@
+---
+- code: chattanooga
+  type: metroarea
+- code: clarksville
+  type: metroarea
+- code: cleveland
+  type: metroarea
+- code: jackson
+  type: metroarea
+- code: johnson_city
+  type: metroarea
+- code: bristol
+  type: metroarea
+- code: kingsport
+  type: metroarea
+- code: knoxville
+  type: metroarea
+- code: memphis
+  type: metroarea
+- code: morristown
+  type: metroarea
+- code: franklin
+  type: metroarea
+- code: murfreesboro
+  type: metroarea
+- code: nashville-davidson_metropolitan_government_(balance)
+  type: metroarea

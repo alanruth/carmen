@@ -1,0 +1,5 @@
+---
+- code: anchorage
+  type: metroarea
+- code: fairbanks
+  type: metroarea

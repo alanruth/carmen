@@ -1,0 +1,41 @@
+---
+en:
+  world:
+    us:
+      mo:
+        cape_girardeau:
+          name: Cape Girardeau
+          description: Cape Girardeau, MO-IL
+          cbsa_name: Cape Girardeau, MO-IL
+        columbia:
+          name: Columbia
+          description: Columbia, MO
+          cbsa_name: Columbia, MO
+        jefferson_city:
+          name: Jefferson City
+          description: Jefferson City, MO
+          cbsa_name: Jefferson City, MO
+        joplin:
+          name: Joplin
+          description: Joplin, MO
+          cbsa_name: Joplin, MO
+        kansas_city:
+          name: Kansas City
+          description: Kansas City, MO-KS
+          cbsa_name: Kansas City, MO-KS
+        st._joseph:
+          name: St. Joseph
+          description: St. Joseph, MO-KS
+          cbsa_name: St. Joseph, MO-KS
+        st._charles:
+          name: St. Charles
+          description: St. Louis, MO-IL
+          cbsa_name: St. Louis, MO-IL
+        st._louis:
+          name: St. Louis
+          description: St. Louis, MO-IL
+          cbsa_name: St. Louis, MO-IL
+        springfield:
+          name: Springfield
+          description: Springfield, MO
+          cbsa_name: Springfield, MO

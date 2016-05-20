@@ -1,0 +1,49 @@
+---
+en:
+  world:
+    us:
+      ar:
+        bentonville:
+          name: Bentonville
+          description: Fayetteville-Springdale-Rogers, AR-MO
+          cbsa_name: Fayetteville-Springdale-Rogers, AR-MO
+        fayetteville:
+          name: Fayetteville
+          description: Fayetteville-Springdale-Rogers, AR-MO
+          cbsa_name: Fayetteville-Springdale-Rogers, AR-MO
+        rogers:
+          name: Rogers
+          description: Fayetteville-Springdale-Rogers, AR-MO
+          cbsa_name: Fayetteville-Springdale-Rogers, AR-MO
+        springdale:
+          name: Springdale
+          description: Fayetteville-Springdale-Rogers, AR-MO
+          cbsa_name: Fayetteville-Springdale-Rogers, AR-MO
+        fort_smith:
+          name: Fort Smith
+          description: Fort Smith, AR-OK
+          cbsa_name: Fort Smith, AR-OK
+        hot_springs:
+          name: Hot Springs
+          description: Hot Springs, AR
+          cbsa_name: Hot Springs, AR
+        jonesboro:
+          name: Jonesboro
+          description: Jonesboro, AR
+          cbsa_name: Jonesboro, AR
+        conway:
+          name: Conway
+          description: Little Rock-North Little Rock-Conway, AR
+          cbsa_name: Little Rock-North Little Rock-Conway, AR
+        little_rock:
+          name: Little Rock
+          description: Little Rock-North Little Rock-Conway, AR
+          cbsa_name: Little Rock-North Little Rock-Conway, AR
+        north_little_rock:
+          name: North Little Rock
+          description: Little Rock-North Little Rock-Conway, AR
+          cbsa_name: Little Rock-North Little Rock-Conway, AR
+        pine_bluff:
+          name: Pine Bluff
+          description: Pine Bluff, AR
+          cbsa_name: Pine Bluff, AR

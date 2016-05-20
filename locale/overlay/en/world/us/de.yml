@@ -1,0 +1,13 @@
+---
+en:
+  world:
+    us:
+      de:
+        dover:
+          name: Dover
+          description: Dover, DE
+          cbsa_name: Dover, DE
+        wilmington:
+          name: Wilmington
+          description: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+          cbsa_name: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD

@@ -1,0 +1,7 @@
+---
+- code: lawton
+  type: metroarea
+- code: oklahoma_city
+  type: metroarea
+- code: tulsa
+  type: metroarea

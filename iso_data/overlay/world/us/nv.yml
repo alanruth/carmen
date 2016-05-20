@@ -1,0 +1,11 @@
+---
+- code: carson_city
+  type: metroarea
+- code: henderson
+  type: metroarea
+- code: las_vegas
+  type: metroarea
+- code: paradise
+  type: metroarea
+- code: reno
+  type: metroarea

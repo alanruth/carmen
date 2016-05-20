@@ -1,0 +1,165 @@
+---
+en:
+  world:
+    us:
+      in:
+        bloomington:
+          name: Bloomington
+          description: Bloomington, IL
+          cbsa_name: Bloomington, IL
+        carbondale:
+          name: Carbondale
+          description: Carbondale-Marion, IL
+          cbsa_name: Carbondale-Marion, IL
+        marion:
+          name: Marion
+          description: Carbondale-Marion, IL
+          cbsa_name: Carbondale-Marion, IL
+        champaign:
+          name: Champaign
+          description: Champaign-Urbana, IL
+          cbsa_name: Champaign-Urbana, IL
+        urbana:
+          name: Urbana
+          description: Champaign-Urbana, IL
+          cbsa_name: Champaign-Urbana, IL
+        arlington_heights:
+          name: Arlington Heights
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        chicago:
+          name: Chicago
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        des_plaines:
+          name: Des Plaines
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        elgin:
+          name: Elgin
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        evanston:
+          name: Evanston
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        hoffman_estates:
+          name: Hoffman Estates
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        naperville:
+          name: Naperville
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        schaumburg:
+          name: Schaumburg
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        skokie:
+          name: Skokie
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        danville:
+          name: Danville
+          description: Danville, IL
+          cbsa_name: Danville, IL
+        moline:
+          name: Moline
+          description: Davenport-Moline-Rock Island, IA-IL
+          cbsa_name: Davenport-Moline-Rock Island, IA-IL
+        rock_island:
+          name: Rock Island
+          description: Davenport-Moline-Rock Island, IA-IL
+          cbsa_name: Davenport-Moline-Rock Island, IA-IL
+        decatur:
+          name: Decatur
+          description: Decatur, IL
+          cbsa_name: Decatur, IL
+        kankakee:
+          name: Kankakee
+          description: Kankakee, IL
+          cbsa_name: Kankakee, IL
+        peoria:
+          name: Peoria
+          description: Peoria, IL
+          cbsa_name: Peoria, IL
+        rockford:
+          name: Rockford
+          description: Rockford, IL
+          cbsa_name: Rockford, IL
+        springfield:
+          name: Springfield
+          description: Springfield, IL
+          cbsa_name: Springfield, IL
+        gary:
+          name: Gary
+          description: Chicago-Naperville-Elgin, IL-IN-WI
+          cbsa_name: Chicago-Naperville-Elgin, IL-IN-WI
+        columbus:
+          name: Columbus
+          description: Columbus, IN
+          cbsa_name: Columbus, IN
+        elkhart:
+          name: Elkhart
+          description: Elkhart-Goshen, IN
+          cbsa_name: Elkhart-Goshen, IN
+        goshen:
+          name: Goshen
+          description: Elkhart-Goshen, IN
+          cbsa_name: Elkhart-Goshen, IN
+        evansville:
+          name: Evansville
+          description: Evansville, IN-KY
+          cbsa_name: Evansville, IN-KY
+        fort_wayne:
+          name: Fort Wayne
+          description: Fort Wayne, IN
+          cbsa_name: Fort Wayne, IN
+        anderson:
+          name: Anderson
+          description: Indianapolis-Carmel-Anderson, IN
+          cbsa_name: Indianapolis-Carmel-Anderson, IN
+        carmel:
+          name: Carmel
+          description: Indianapolis-Carmel-Anderson, IN
+          cbsa_name: Indianapolis-Carmel-Anderson, IN
+        indianapolis_city_(balance):
+          name: Indianapolis city (balance)
+          description: Indianapolis-Carmel-Anderson, IN
+          cbsa_name: Indianapolis-Carmel-Anderson, IN
+        kokomo:
+          name: Kokomo
+          description: Kokomo, IN
+          cbsa_name: Kokomo, IN
+        lafayette:
+          name: Lafayette
+          description: Lafayette-West Lafayette, IN
+          cbsa_name: Lafayette-West Lafayette, IN
+        west_lafayette:
+          name: West Lafayette
+          description: Lafayette-West Lafayette, IN
+          cbsa_name: Lafayette-West Lafayette, IN
+        la_porte:
+          name: La Porte
+          description: Michigan City-La Porte, IN
+          cbsa_name: Michigan City-La Porte, IN
+        michigan_city:
+          name: Michigan City
+          description: Michigan City-La Porte, IN
+          cbsa_name: Michigan City-La Porte, IN
+        muncie:
+          name: Muncie
+          description: Muncie, IN
+          cbsa_name: Muncie, IN
+        mishawaka:
+          name: Mishawaka
+          description: South Bend-Mishawaka, IN-MI
+          cbsa_name: South Bend-Mishawaka, IN-MI
+        south_bend:
+          name: South Bend
+          description: South Bend-Mishawaka, IN-MI
+          cbsa_name: South Bend-Mishawaka, IN-MI
+        terre_haute:
+          name: Terre Haute
+          description: Terre Haute, IN
+          cbsa_name: Terre Haute, IN

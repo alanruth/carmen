@@ -1,0 +1,49 @@
+---
+en:
+  world:
+    us:
+      mn:
+        duluth:
+          name: Duluth
+          description: Duluth, MN-WI
+          cbsa_name: Duluth, MN-WI
+        mankato:
+          name: Mankato
+          description: Mankato-North Mankato, MN
+          cbsa_name: Mankato-North Mankato, MN
+        north_mankato:
+          name: North Mankato
+          description: Mankato-North Mankato, MN
+          cbsa_name: Mankato-North Mankato, MN
+        bloomington:
+          name: Bloomington
+          description: Minneapolis-St. Paul-Bloomington, MN-WI
+          cbsa_name: Minneapolis-St. Paul-Bloomington, MN-WI
+        eagan:
+          name: Eagan
+          description: Minneapolis-St. Paul-Bloomington, MN-WI
+          cbsa_name: Minneapolis-St. Paul-Bloomington, MN-WI
+        eden_prairie:
+          name: Eden Prairie
+          description: Minneapolis-St. Paul-Bloomington, MN-WI
+          cbsa_name: Minneapolis-St. Paul-Bloomington, MN-WI
+        minneapolis:
+          name: Minneapolis
+          description: Minneapolis-St. Paul-Bloomington, MN-WI
+          cbsa_name: Minneapolis-St. Paul-Bloomington, MN-WI
+        plymouth:
+          name: Plymouth
+          description: Minneapolis-St. Paul-Bloomington, MN-WI
+          cbsa_name: Minneapolis-St. Paul-Bloomington, MN-WI
+        st._paul:
+          name: St. Paul
+          description: Minneapolis-St. Paul-Bloomington, MN-WI
+          cbsa_name: Minneapolis-St. Paul-Bloomington, MN-WI
+        rochester:
+          name: Rochester
+          description: Rochester, MN
+          cbsa_name: Rochester, MN
+        st._cloud:
+          name: St. Cloud
+          description: St. Cloud, MN
+          cbsa_name: St. Cloud, MN

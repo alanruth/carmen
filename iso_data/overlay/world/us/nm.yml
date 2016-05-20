@@ -1,0 +1,9 @@
+---
+- code: albuquerque
+  type: metroarea
+- code: farmington
+  type: metroarea
+- code: las_cruces
+  type: metroarea
+- code: santa_fe
+  type: metroarea

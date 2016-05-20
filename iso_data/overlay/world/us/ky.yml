@@ -1,0 +1,15 @@
+---
+- code: bowling_green
+  type: metroarea
+- code: elizabethtown
+  type: metroarea
+- code: fort_knox
+  type: metroarea
+- code: ashland
+  type: metroarea
+- code: lexington-fayette
+  type: metroarea
+- code: louisville/jefferson_county_metro_government_(balance)
+  type: metroarea
+- code: owensboro
+  type: metroarea

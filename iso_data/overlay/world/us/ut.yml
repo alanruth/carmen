@@ -1,0 +1,15 @@
+---
+- code: logan
+  type: metroarea
+- code: clearfield
+  type: metroarea
+- code: ogden
+  type: metroarea
+- code: orem
+  type: metroarea
+- code: provo
+  type: metroarea
+- code: st._george
+  type: metroarea
+- code: salt_lake_city
+  type: metroarea

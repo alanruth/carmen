@@ -1,0 +1,77 @@
+---
+en:
+  world:
+    us:
+      ga:
+        albany:
+          name: Albany
+          description: Albany, GA
+          cbsa_name: Albany, GA
+        athens-clarke_county_unified_government_(balance):
+          name: Athens-Clarke County unified government (balance)
+          description: Athens-Clarke County, GA
+          cbsa_name: Athens-Clarke County, GA
+        alpharetta:
+          name: Alpharetta
+          description: Atlanta-Sandy Springs-Roswell, GA
+          cbsa_name: Atlanta-Sandy Springs-Roswell, GA
+        atlanta:
+          name: Atlanta
+          description: Atlanta-Sandy Springs-Roswell, GA
+          cbsa_name: Atlanta-Sandy Springs-Roswell, GA
+        marietta:
+          name: Marietta
+          description: Atlanta-Sandy Springs-Roswell, GA
+          cbsa_name: Atlanta-Sandy Springs-Roswell, GA
+        roswell:
+          name: Roswell
+          description: Atlanta-Sandy Springs-Roswell, GA
+          cbsa_name: Atlanta-Sandy Springs-Roswell, GA
+        sandy_springs:
+          name: Sandy Springs
+          description: Atlanta-Sandy Springs-Roswell, GA
+          cbsa_name: Atlanta-Sandy Springs-Roswell, GA
+        augusta-richmond_county_consolidated_government_(balance):
+          name: Augusta-Richmond County consolidated government (balance)
+          description: Augusta-Richmond County, GA-SC
+          cbsa_name: Augusta-Richmond County, GA-SC
+        brunswick:
+          name: Brunswick
+          description: Brunswick, GA
+          cbsa_name: Brunswick, GA
+        columbus:
+          name: Columbus
+          description: Columbus, GA-AL
+          cbsa_name: Columbus, GA-AL
+        gainesville:
+          name: Gainesville
+          description: Gainesville, GA
+          cbsa_name: Gainesville, GA
+        hinesville:
+          name: Hinesville
+          description: Hinesville, GA
+          cbsa_name: Hinesville, GA
+        macon:
+          name: Macon
+          description: Macon, GA
+          cbsa_name: Macon, GA
+        rome:
+          name: Rome
+          description: Rome, GA
+          cbsa_name: Rome, GA
+        savannah:
+          name: Savannah
+          description: Savannah, GA
+          cbsa_name: Savannah, GA
+        valdosta:
+          name: Valdosta
+          description: Valdosta, GA
+          cbsa_name: Valdosta, GA
+        warner_robins:
+          name: Warner Robins
+          description: Warner Robins, GA
+          cbsa_name: Warner Robins, GA
+        dalton:
+          name: Dalton
+          description: Dalton, GA
+          cbsa_name: Dalton, GA

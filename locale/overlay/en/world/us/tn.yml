@@ -1,0 +1,57 @@
+---
+en:
+  world:
+    us:
+      tn:
+        chattanooga:
+          name: Chattanooga
+          description: Chattanooga, TN-GA
+          cbsa_name: Chattanooga, TN-GA
+        clarksville:
+          name: Clarksville
+          description: Clarksville, TN-KY
+          cbsa_name: Clarksville, TN-KY
+        cleveland:
+          name: Cleveland
+          description: Cleveland, TN
+          cbsa_name: Cleveland, TN
+        jackson:
+          name: Jackson
+          description: Jackson, TN
+          cbsa_name: Jackson, TN
+        johnson_city:
+          name: Johnson City
+          description: Johnson City, TN
+          cbsa_name: Johnson City, TN
+        bristol:
+          name: Bristol
+          description: Kingsport-Bristol-Bristol, TN-VA
+          cbsa_name: Kingsport-Bristol-Bristol, TN-VA
+        kingsport:
+          name: Kingsport
+          description: Kingsport-Bristol-Bristol, TN-VA
+          cbsa_name: Kingsport-Bristol-Bristol, TN-VA
+        knoxville:
+          name: Knoxville
+          description: Knoxville, TN
+          cbsa_name: Knoxville, TN
+        memphis:
+          name: Memphis
+          description: Memphis, TN-MS-AR
+          cbsa_name: Memphis, TN-MS-AR
+        morristown:
+          name: Morristown
+          description: Morristown, TN
+          cbsa_name: Morristown, TN
+        franklin:
+          name: Franklin
+          description: Nashville-Davidson--Murfreesboro--Franklin, TN
+          cbsa_name: Nashville-Davidson--Murfreesboro--Franklin, TN
+        murfreesboro:
+          name: Murfreesboro
+          description: Nashville-Davidson--Murfreesboro--Franklin, TN
+          cbsa_name: Nashville-Davidson--Murfreesboro--Franklin, TN
+        nashville-davidson_metropolitan_government_(balance):
+          name: Nashville-Davidson metropolitan government (balance)
+          description: Nashville-Davidson--Murfreesboro--Franklin, TN
+          cbsa_name: Nashville-Davidson--Murfreesboro--Franklin, TN

@@ -1,0 +1,57 @@
+---
+en:
+  world:
+    us:
+      md:
+        baltimore:
+          name: Baltimore
+          description: Baltimore-Columbia-Towson, MD
+          cbsa_name: Baltimore-Columbia-Towson, MD
+        columbia:
+          name: Columbia
+          description: Baltimore-Columbia-Towson, MD
+          cbsa_name: Baltimore-Columbia-Towson, MD
+        towson:
+          name: Towson
+          description: Baltimore-Columbia-Towson, MD
+          cbsa_name: Baltimore-Columbia-Towson, MD
+        california:
+          name: California
+          description: California-Lexington Park, MD
+          cbsa_name: California-Lexington Park, MD
+        lexington_park:
+          name: Lexington Park
+          description: California-Lexington Park, MD
+          cbsa_name: California-Lexington Park, MD
+        cumberland:
+          name: Cumberland
+          description: Cumberland, MD-WV
+          cbsa_name: Cumberland, MD-WV
+        hagerstown:
+          name: Hagerstown
+          description: Hagerstown-Martinsburg, MD-WV
+          cbsa_name: Hagerstown-Martinsburg, MD-WV
+        salisbury:
+          name: Salisbury
+          description: Salisbury, MD-DE
+          cbsa_name: Salisbury, MD-DE
+        bethesda:
+          name: Bethesda
+          description: Washington-Arlington-Alexandria, DC-VA-MD-WV
+          cbsa_name: Washington-Arlington-Alexandria, DC-VA-MD-WV
+        frederick:
+          name: Frederick
+          description: Washington-Arlington-Alexandria, DC-VA-MD-WV
+          cbsa_name: Washington-Arlington-Alexandria, DC-VA-MD-WV
+        gaithersburg:
+          name: Gaithersburg
+          description: Washington-Arlington-Alexandria, DC-VA-MD-WV
+          cbsa_name: Washington-Arlington-Alexandria, DC-VA-MD-WV
+        rockville:
+          name: Rockville
+          description: Washington-Arlington-Alexandria, DC-VA-MD-WV
+          cbsa_name: Washington-Arlington-Alexandria, DC-VA-MD-WV
+        silver_spring:
+          name: Silver Spring
+          description: Washington-Arlington-Alexandria, DC-VA-MD-WV
+          cbsa_name: Washington-Arlington-Alexandria, DC-VA-MD-WV

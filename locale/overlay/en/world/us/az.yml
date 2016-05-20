@@ -1,0 +1,53 @@
+---
+en:
+  world:
+    us:
+      az:
+        tempe:
+          name: Tempe
+          description: Phoenix-Mesa-Scottsdale, AZ
+          cbsa_name: Phoenix-Mesa-Scottsdale, AZ
+        prescott:
+          name: Prescott
+          description: Prescott, AZ
+          cbsa_name: Prescott, AZ
+        douglas:
+          name: Douglas
+          description: Sierra Vista-Douglas, AZ
+          cbsa_name: Sierra Vista-Douglas, AZ
+        sierra_vista:
+          name: Sierra Vista
+          description: Sierra Vista-Douglas, AZ
+          cbsa_name: Sierra Vista-Douglas, AZ
+        tucson:
+          name: Tucson
+          description: Tucson, AZ
+          cbsa_name: Tucson, AZ
+        yuma:
+          name: Yuma
+          description: Yuma, AZ
+          cbsa_name: Yuma, AZ
+        flagstaff:
+          name: Flagstaff
+          description: Flagstaff, AZ
+          cbsa_name: Flagstaff, AZ
+        kingman:
+          name: Kingman
+          description: Lake Havasu City-Kingman, AZ
+          cbsa_name: Lake Havasu City-Kingman, AZ
+        lake_havasu_city:
+          name: Lake Havasu City
+          description: Lake Havasu City-Kingman, AZ
+          cbsa_name: Lake Havasu City-Kingman, AZ
+        mesa:
+          name: Mesa
+          description: Phoenix-Mesa-Scottsdale, AZ
+          cbsa_name: Phoenix-Mesa-Scottsdale, AZ
+        phoenix:
+          name: Phoenix
+          description: Phoenix-Mesa-Scottsdale, AZ
+          cbsa_name: Phoenix-Mesa-Scottsdale, AZ
+        scottsdale:
+          name: Scottsdale
+          description: Phoenix-Mesa-Scottsdale, AZ
+          cbsa_name: Phoenix-Mesa-Scottsdale, AZ

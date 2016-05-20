@@ -1,0 +1,81 @@
+---
+en:
+  world:
+    us:
+      al:
+        anniston:
+          name: Anniston
+          description: Anniston-Oxford-Jacksonville, AL
+          cbsa_name: Anniston-Oxford-Jacksonville, AL
+        mobile:
+          name: Mobile
+          description: Mobile, AL
+          cbsa_name: Mobile, AL
+        jacksonville:
+          name: Jacksonville
+          description: Anniston-Oxford-Jacksonville, AL
+          cbsa_name: Anniston-Oxford-Jacksonville, AL
+        oxford:
+          name: Oxford
+          description: Anniston-Oxford-Jacksonville, AL
+          cbsa_name: Anniston-Oxford-Jacksonville, AL
+        auburn:
+          name: Auburn
+          description: Auburn-Opelika, AL
+          cbsa_name: Auburn-Opelika, AL
+        opelika:
+          name: Opelika
+          description: Auburn-Opelika, AL
+          cbsa_name: Auburn-Opelika, AL
+        birmingham:
+          name: Birmingham
+          description: Birmingham-Hoover, AL
+          cbsa_name: Birmingham-Hoover, AL
+        hoover:
+          name: Hoover
+          description: Birmingham-Hoover, AL
+          cbsa_name: Birmingham-Hoover, AL
+        daphne:
+          name: Daphne
+          description: Daphne-Fairhope-Foley, AL
+          cbsa_name: Daphne-Fairhope-Foley, AL
+        fairhope:
+          name: Fairhope
+          description: Daphne-Fairhope-Foley, AL
+          cbsa_name: Daphne-Fairhope-Foley, AL
+        foley:
+          name: Foley
+          description: Daphne-Fairhope-Foley, AL
+          cbsa_name: Daphne-Fairhope-Foley, AL
+        decatur:
+          name: Decatur
+          description: Decatur, AL
+          cbsa_name: Decatur, AL
+        dothan:
+          name: Dothan
+          description: Dothan, AL
+          cbsa_name: Dothan, AL
+        florence:
+          name: Florence
+          description: Florence-Muscle Shoals, AL
+          cbsa_name: Florence-Muscle Shoals, AL
+        muscle_shoals:
+          name: Muscle Shoals
+          description: Florence-Muscle Shoals, AL
+          cbsa_name: Florence-Muscle Shoals, AL
+        gadsden:
+          name: Gadsden
+          description: Gadsden, AL
+          cbsa_name: Gadsden, AL
+        huntsville:
+          name: Huntsville
+          description: Huntsville, AL
+          cbsa_name: Huntsville, AL
+        montgomery:
+          name: Montgomery
+          description: Montgomery, AL
+          cbsa_name: Montgomery, AL
+        tuscaloosa:
+          name: Tuscaloosa
+          description: Tuscaloosa, AL
+          cbsa_name: Tuscaloosa, AL

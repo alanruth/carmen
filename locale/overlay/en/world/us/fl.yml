@@ -1,0 +1,213 @@
+---
+en:
+  world:
+    us:
+      fl:
+        cape_coral:
+          name: Cape Coral
+          description: Cape Coral-Fort Myers, FL
+          cbsa_name: Cape Coral-Fort Myers, FL
+        fort_myers:
+          name: Fort Myers
+          description: Cape Coral-Fort Myers, FL
+          cbsa_name: Cape Coral-Fort Myers, FL
+        crestview:
+          name: Crestview
+          description: Crestview-Fort Walton Beach-Destin, FL
+          cbsa_name: Crestview-Fort Walton Beach-Destin, FL
+        destin:
+          name: Destin
+          description: Crestview-Fort Walton Beach-Destin, FL
+          cbsa_name: Crestview-Fort Walton Beach-Destin, FL
+        fort_walton_beach:
+          name: Fort Walton Beach
+          description: Crestview-Fort Walton Beach-Destin, FL
+          cbsa_name: Crestview-Fort Walton Beach-Destin, FL
+        daytona_beach:
+          name: Daytona Beach
+          description: Deltona-Daytona Beach-Ormond Beach, FL
+          cbsa_name: Deltona-Daytona Beach-Ormond Beach, FL
+        deltona:
+          name: Deltona
+          description: Deltona-Daytona Beach-Ormond Beach, FL
+          cbsa_name: Deltona-Daytona Beach-Ormond Beach, FL
+        ormond_beach:
+          name: Ormond Beach
+          description: Deltona-Daytona Beach-Ormond Beach, FL
+          cbsa_name: Deltona-Daytona Beach-Ormond Beach, FL
+        gainesville:
+          name: Gainesville
+          description: Gainesville, FL
+          cbsa_name: Gainesville, FL
+        homosassa_springs:
+          name: Homosassa Springs
+          description: Homosassa Springs, FL
+          cbsa_name: Homosassa Springs, FL
+        jacksonville:
+          name: Jacksonville
+          description: Jacksonville, FL
+          cbsa_name: Jacksonville, FL
+        lakeland:
+          name: Lakeland
+          description: Lakeland-Winter Haven, FL
+          cbsa_name: Lakeland-Winter Haven, FL
+        winter_haven:
+          name: Winter Haven
+          description: Lakeland-Winter Haven, FL
+          cbsa_name: Lakeland-Winter Haven, FL
+        boca_raton:
+          name: Boca Raton
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        deerfield_beach:
+          name: Deerfield Beach
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        delray_beach:
+          name: Delray Beach
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        fort_lauderdale:
+          name: Fort Lauderdale
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        jupiter:
+          name: Jupiter
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        kendall:
+          name: Kendall
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        miami:
+          name: Miami
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        miami_beach:
+          name: Miami Beach
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        pompano_beach:
+          name: Pompano Beach
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        west_palm_beach:
+          name: West Palm Beach
+          description: Miami-Fort Lauderdale-West Palm Beach, FL
+          cbsa_name: Miami-Fort Lauderdale-West Palm Beach, FL
+        immokalee:
+          name: Immokalee
+          description: Naples-Immokalee-Marco Island, FL
+          cbsa_name: Naples-Immokalee-Marco Island, FL
+        marco_island:
+          name: Marco Island
+          description: Naples-Immokalee-Marco Island, FL
+          cbsa_name: Naples-Immokalee-Marco Island, FL
+        naples:
+          name: Naples
+          description: Naples-Immokalee-Marco Island, FL
+          cbsa_name: Naples-Immokalee-Marco Island, FL
+        bradenton:
+          name: Bradenton
+          description: North Port-Sarasota-Bradenton, FL
+          cbsa_name: North Port-Sarasota-Bradenton, FL
+        north_port:
+          name: North Port
+          description: North Port-Sarasota-Bradenton, FL
+          cbsa_name: North Port-Sarasota-Bradenton, FL
+        sarasota:
+          name: Sarasota
+          description: North Port-Sarasota-Bradenton, FL
+          cbsa_name: North Port-Sarasota-Bradenton, FL
+        venice:
+          name: Venice
+          description: North Port-Sarasota-Bradenton, FL
+          cbsa_name: North Port-Sarasota-Bradenton, FL
+        ocala:
+          name: Ocala
+          description: Ocala, FL
+          cbsa_name: Ocala, FL
+        kissimmee:
+          name: Kissimmee
+          description: Orlando-Kissimmee-Sanford, FL
+          cbsa_name: Orlando-Kissimmee-Sanford, FL
+        orlando:
+          name: Orlando
+          description: Orlando-Kissimmee-Sanford, FL
+          cbsa_name: Orlando-Kissimmee-Sanford, FL
+        sanford:
+          name: Sanford
+          description: Orlando-Kissimmee-Sanford, FL
+          cbsa_name: Orlando-Kissimmee-Sanford, FL
+        melbourne:
+          name: Melbourne
+          description: Palm Bay-Melbourne-Titusville, FL
+          cbsa_name: Palm Bay-Melbourne-Titusville, FL
+        palm_bay:
+          name: Palm Bay
+          description: Palm Bay-Melbourne-Titusville, FL
+          cbsa_name: Palm Bay-Melbourne-Titusville, FL
+        titusville:
+          name: Titusville
+          description: Palm Bay-Melbourne-Titusville, FL
+          cbsa_name: Palm Bay-Melbourne-Titusville, FL
+        panama_city:
+          name: Panama City
+          description: Panama City, FL
+          cbsa_name: Panama City, FL
+        brent:
+          name: Brent
+          description: Pensacola-Ferry Pass-Brent, FL
+          cbsa_name: Pensacola-Ferry Pass-Brent, FL
+        ferry_pass:
+          name: Ferry Pass
+          description: Pensacola-Ferry Pass-Brent, FL
+          cbsa_name: Pensacola-Ferry Pass-Brent, FL
+        pensacola:
+          name: Pensacola
+          description: Pensacola-Ferry Pass-Brent, FL
+          cbsa_name: Pensacola-Ferry Pass-Brent, FL
+        port_st._lucie:
+          name: Port St. Lucie
+          description: Port St. Lucie, FL
+          cbsa_name: Port St. Lucie, FL
+        punta_gorda:
+          name: Punta Gorda
+          description: Punta Gorda, FL
+          cbsa_name: Punta Gorda, FL
+        sebastian:
+          name: Sebastian
+          description: Sebastian-Vero Beach, FL
+          cbsa_name: Sebastian-Vero Beach, FL
+        vero_beach:
+          name: Vero Beach
+          description: Sebastian-Vero Beach, FL
+          cbsa_name: Sebastian-Vero Beach, FL
+        sebring:
+          name: Sebring
+          description: Sebring, FL
+          cbsa_name: Sebring, FL
+        tallahassee:
+          name: Tallahassee
+          description: Tallahassee, FL
+          cbsa_name: Tallahassee, FL
+        clearwater:
+          name: Clearwater
+          description: Tampa-St. Petersburg-Clearwater, FL
+          cbsa_name: Tampa-St. Petersburg-Clearwater, FL
+        largo:
+          name: Largo
+          description: Tampa-St. Petersburg-Clearwater, FL
+          cbsa_name: Tampa-St. Petersburg-Clearwater, FL
+        st._petersburg:
+          name: St. Petersburg
+          description: Tampa-St. Petersburg-Clearwater, FL
+          cbsa_name: Tampa-St. Petersburg-Clearwater, FL
+        tampa:
+          name: Tampa
+          description: Tampa-St. Petersburg-Clearwater, FL
+          cbsa_name: Tampa-St. Petersburg-Clearwater, FL
+        the_villages:
+          name: The Villages
+          description: The Villages, FL
+          cbsa_name: The Villages, FL

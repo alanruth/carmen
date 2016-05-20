@@ -1,0 +1,41 @@
+---
+en:
+  world:
+    us:
+      wv:
+        beckley:
+          name: Beckley
+          description: Beckley, WV
+          cbsa_name: Beckley, WV
+        charleston:
+          name: Charleston
+          description: Charleston, WV
+          cbsa_name: Charleston, WV
+        martinsburg:
+          name: Martinsburg
+          description: Hagerstown-Martinsburg, MD-WV
+          cbsa_name: Hagerstown-Martinsburg, MD-WV
+        huntington:
+          name: Huntington
+          description: Huntington-Ashland, WV-KY-OH
+          cbsa_name: Huntington-Ashland, WV-KY-OH
+        morgantown:
+          name: Morgantown
+          description: Morgantown, WV
+          cbsa_name: Morgantown, WV
+        parkersburg:
+          name: Parkersburg
+          description: Parkersburg-Vienna, WV
+          cbsa_name: Parkersburg-Vienna, WV
+        vienna:
+          name: Vienna
+          description: Parkersburg-Vienna, WV
+          cbsa_name: Parkersburg-Vienna, WV
+        weirton:
+          name: Weirton
+          description: Weirton-Steubenville, WV-OH
+          cbsa_name: Weirton-Steubenville, WV-OH
+        wheeling:
+          name: Wheeling
+          description: Wheeling, WV-OH
+          cbsa_name: Wheeling, WV-OH

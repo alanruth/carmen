@@ -1,0 +1,9 @@
+---
+- code: kahului
+  type: metroarea
+- code: lahaina
+  type: metroarea
+- code: wailuku
+  type: metroarea
+- code: urban_honolulu
+  type: metroarea

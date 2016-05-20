@@ -1,0 +1,19 @@
+---
+- code: barnstable_town
+  type: metroarea
+- code: boston
+  type: metroarea
+- code: cambridge
+  type: metroarea
+- code: framingham
+  type: metroarea
+- code: newton
+  type: metroarea
+- code: waltham
+  type: metroarea
+- code: pittsfield
+  type: metroarea
+- code: springfield
+  type: metroarea
+- code: worcester
+  type: metroarea

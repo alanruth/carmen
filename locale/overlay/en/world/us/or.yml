@@ -1,0 +1,49 @@
+---
+en:
+  world:
+    us:
+      or:
+        albany:
+          name: Albany
+          description: Albany, OR
+          cbsa_name: Albany, OR
+        bend:
+          name: Bend
+          description: Bend-Redmond, OR
+          cbsa_name: Bend-Redmond, OR
+        redmond:
+          name: Redmond
+          description: Bend-Redmond, OR
+          cbsa_name: Bend-Redmond, OR
+        corvallis:
+          name: Corvallis
+          description: Corvallis, OR
+          cbsa_name: Corvallis, OR
+        eugene:
+          name: Eugene
+          description: Eugene, OR
+          cbsa_name: Eugene, OR
+        grants_pass:
+          name: Grants Pass
+          description: Grants Pass, OR
+          cbsa_name: Grants Pass, OR
+        medford:
+          name: Medford
+          description: Medford, OR
+          cbsa_name: Medford, OR
+        beaverton:
+          name: Beaverton
+          description: Portland-Vancouver-Hillsboro, OR-WA
+          cbsa_name: Portland-Vancouver-Hillsboro, OR-WA
+        hillsboro:
+          name: Hillsboro
+          description: Portland-Vancouver-Hillsboro, OR-WA
+          cbsa_name: Portland-Vancouver-Hillsboro, OR-WA
+        portland:
+          name: Portland
+          description: Portland-Vancouver-Hillsboro, OR-WA
+          cbsa_name: Portland-Vancouver-Hillsboro, OR-WA
+        salem:
+          name: Salem
+          description: Salem, OR
+          cbsa_name: Salem, OR

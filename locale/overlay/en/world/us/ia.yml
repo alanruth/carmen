@@ -1,0 +1,49 @@
+---
+en:
+  world:
+    us:
+      ia:
+        ames:
+          name: Ames
+          description: Ames, IA
+          cbsa_name: Ames, IA
+        cedar_rapids:
+          name: Cedar Rapids
+          description: Cedar Rapids, IA
+          cbsa_name: Cedar Rapids, IA
+        davenport:
+          name: Davenport
+          description: Davenport-Moline-Rock Island, IA-IL
+          cbsa_name: Davenport-Moline-Rock Island, IA-IL
+        des_moines:
+          name: Des Moines
+          description: Des Moines-West Des Moines, IA
+          cbsa_name: Des Moines-West Des Moines, IA
+        west_des_moines:
+          name: West Des Moines
+          description: Des Moines-West Des Moines, IA
+          cbsa_name: Des Moines-West Des Moines, IA
+        dubuque:
+          name: Dubuque
+          description: Dubuque, IA
+          cbsa_name: Dubuque, IA
+        iowa_city:
+          name: Iowa City
+          description: Iowa City, IA
+          cbsa_name: Iowa City, IA
+        council_bluffs:
+          name: Council Bluffs
+          description: Omaha-Council Bluffs, NE-IA
+          cbsa_name: Omaha-Council Bluffs, NE-IA
+        sioux_city:
+          name: Sioux City
+          description: Sioux City, IA-NE-SD
+          cbsa_name: Sioux City, IA-NE-SD
+        cedar_falls:
+          name: Cedar Falls
+          description: Waterloo-Cedar Falls, IA
+          cbsa_name: Waterloo-Cedar Falls, IA
+        waterloo:
+          name: Waterloo
+          description: Waterloo-Cedar Falls, IA
+          cbsa_name: Waterloo-Cedar Falls, IA

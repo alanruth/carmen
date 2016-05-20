@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    us:
+      ok:
+        lawton:
+          name: Lawton
+          description: Lawton, OK
+          cbsa_name: Lawton, OK
+        oklahoma_city:
+          name: Oklahoma City
+          description: Oklahoma City, OK
+          cbsa_name: Oklahoma City, OK
+        tulsa:
+          name: Tulsa
+          description: Tulsa, OK
+          cbsa_name: Tulsa, OK

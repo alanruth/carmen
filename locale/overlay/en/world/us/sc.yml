@@ -1,0 +1,73 @@
+---
+en:
+  world:
+    us:
+      sc:
+        charleston:
+          name: Charleston
+          description: Charleston-North Charleston, SC
+          cbsa_name: Charleston-North Charleston, SC
+        north_charleston:
+          name: North Charleston
+          description: Charleston-North Charleston, SC
+          cbsa_name: Charleston-North Charleston, SC
+        rock_hill:
+          name: Rock Hill
+          description: Charlotte-Concord-Gastonia, NC-SC
+          cbsa_name: Charlotte-Concord-Gastonia, NC-SC
+        florence:
+          name: Florence
+          description: Florence, SC
+          cbsa_name: Florence, SC
+        anderson:
+          name: Anderson
+          description: Greenville-Anderson-Mauldin, SC
+          cbsa_name: Greenville-Anderson-Mauldin, SC
+        easley:
+          name: Easley
+          description: Greenville-Anderson-Mauldin, SC
+          cbsa_name: Greenville-Anderson-Mauldin, SC
+        greenville:
+          name: Greenville
+          description: Greenville-Anderson-Mauldin, SC
+          cbsa_name: Greenville-Anderson-Mauldin, SC
+        mauldin:
+          name: Mauldin
+          description: Greenville-Anderson-Mauldin, SC
+          cbsa_name: Greenville-Anderson-Mauldin, SC
+        beaufort:
+          name: Beaufort
+          description: Hilton Head Island-Bluffton-Beaufort, SC
+          cbsa_name: Hilton Head Island-Bluffton-Beaufort, SC
+        bluffton:
+          name: Bluffton
+          description: Hilton Head Island-Bluffton-Beaufort, SC
+          cbsa_name: Hilton Head Island-Bluffton-Beaufort, SC
+        hilton_head_island:
+          name: Hilton Head Island
+          description: Hilton Head Island-Bluffton-Beaufort, SC
+          cbsa_name: Hilton Head Island-Bluffton-Beaufort, SC
+        conway:
+          name: Conway
+          description: Myrtle Beach-Conway-North Myrtle Beach, SC-NC
+          cbsa_name: Myrtle Beach-Conway-North Myrtle Beach, SC-NC
+        myrtle_beach:
+          name: Myrtle Beach
+          description: Myrtle Beach-Conway-North Myrtle Beach, SC-NC
+          cbsa_name: Myrtle Beach-Conway-North Myrtle Beach, SC-NC
+        north_myrtle_beach:
+          name: North Myrtle Beach
+          description: Myrtle Beach-Conway-North Myrtle Beach, SC-NC
+          cbsa_name: Myrtle Beach-Conway-North Myrtle Beach, SC-NC
+        spartanburg:
+          name: Spartanburg
+          description: Spartanburg, SC
+          cbsa_name: Spartanburg, SC
+        sumter:
+          name: Sumter
+          description: Sumter, SC
+          cbsa_name: Sumter, SC
+        columbia:
+          name: Columbia
+          description: Columbia, SC
+          cbsa_name: Columbia, SC

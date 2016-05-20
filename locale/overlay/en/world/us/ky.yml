@@ -1,0 +1,33 @@
+---
+en:
+  world:
+    us:
+      ky:
+        bowling_green:
+          name: Bowling Green
+          description: Bowling Green, KY
+          cbsa_name: Bowling Green, KY
+        elizabethtown:
+          name: Elizabethtown
+          description: Elizabethtown-Fort Knox, KY
+          cbsa_name: Elizabethtown-Fort Knox, KY
+        fort_knox:
+          name: Fort Knox
+          description: Elizabethtown-Fort Knox, KY
+          cbsa_name: Elizabethtown-Fort Knox, KY
+        ashland:
+          name: Ashland
+          description: Huntington-Ashland, WV-KY-OH
+          cbsa_name: Huntington-Ashland, WV-KY-OH
+        lexington-fayette:
+          name: Lexington-Fayette
+          description: Lexington-Fayette, KY
+          cbsa_name: Lexington-Fayette, KY
+        louisville/jefferson_county_metro_government_(balance):
+          name: Louisville/Jefferson County metro government (balance)
+          description: Louisville/Jefferson County, KY-IN
+          cbsa_name: Louisville/Jefferson County, KY-IN
+        owensboro:
+          name: Owensboro
+          description: Owensboro, KY
+          cbsa_name: Owensboro, KY

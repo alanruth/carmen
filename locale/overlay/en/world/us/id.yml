@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    us:
+      id:
+        boise_city:
+          name: Boise City
+          description: Boise City, ID
+          cbsa_name: Boise City, ID
+        coeur_dalene:
+          name: Coeur dAlene
+          description: Coeur dAlene, ID
+          cbsa_name: Coeur dAlene, ID
+        idaho_falls:
+          name: Idaho Falls
+          description: Idaho Falls, ID
+          cbsa_name: Idaho Falls, ID
+        lewiston:
+          name: Lewiston
+          description: Lewiston, ID-WA
+          cbsa_name: Lewiston, ID-WA
+        pocatello:
+          name: Pocatello
+          description: Pocatello, ID
+          cbsa_name: Pocatello, ID

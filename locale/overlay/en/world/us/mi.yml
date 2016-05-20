@@ -1,0 +1,113 @@
+---
+en:
+  world:
+    us:
+      mi:
+        ann_arbor:
+          name: Ann Arbor
+          description: Ann Arbor, MI
+          cbsa_name: Ann Arbor, MI
+        battle_creek:
+          name: Battle Creek
+          description: Battle Creek, MI
+          cbsa_name: Battle Creek, MI
+        bay_city:
+          name: Bay City
+          description: Bay City, MI
+          cbsa_name: Bay City, MI
+        dearborn:
+          name: Dearborn
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        detroit:
+          name: Detroit
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        farmington_hills:
+          name: Farmington Hills
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        livonia:
+          name: Livonia
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        novi:
+          name: Novi
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        pontiac:
+          name: Pontiac
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        southfield:
+          name: Southfield
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        taylor:
+          name: Taylor
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        troy:
+          name: Troy
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        warren:
+          name: Warren
+          description: Detroit-Warren-Dearborn, MI
+          cbsa_name: Detroit-Warren-Dearborn, MI
+        flint:
+          name: Flint
+          description: Flint, MI
+          cbsa_name: Flint, MI
+        grand_rapids:
+          name: Grand Rapids
+          description: Grand Rapids-Wyoming, MI
+          cbsa_name: Grand Rapids-Wyoming, MI
+        wyoming:
+          name: Wyoming
+          description: Grand Rapids-Wyoming, MI
+          cbsa_name: Grand Rapids-Wyoming, MI
+        jackson:
+          name: Jackson
+          description: Jackson, MI
+          cbsa_name: Jackson, MI
+        kalamazoo:
+          name: Kalamazoo
+          description: Kalamazoo-Portage, MI
+          cbsa_name: Kalamazoo-Portage, MI
+        portage:
+          name: Portage
+          description: Kalamazoo-Portage, MI
+          cbsa_name: Kalamazoo-Portage, MI
+        east_lansing:
+          name: East Lansing
+          description: Lansing-East Lansing, MI
+          cbsa_name: Lansing-East Lansing, MI
+        lansing:
+          name: Lansing
+          description: Lansing-East Lansing, MI
+          cbsa_name: Lansing-East Lansing, MI
+        midland:
+          name: Midland
+          description: Midland, MI
+          cbsa_name: Midland, MI
+        monroe:
+          name: Monroe
+          description: Monroe, MI
+          cbsa_name: Monroe, MI
+        muskegon:
+          name: Muskegon
+          description: Muskegon, MI
+          cbsa_name: Muskegon, MI
+        benton_harbor:
+          name: Benton Harbor
+          description: Niles-Benton Harbor, MI
+          cbsa_name: Niles-Benton Harbor, MI
+        niles:
+          name: Niles
+          description: Niles-Benton Harbor, MI
+          cbsa_name: Niles-Benton Harbor, MI
+        saginaw:
+          name: Saginaw
+          description: Saginaw, MI
+          cbsa_name: Saginaw, MI

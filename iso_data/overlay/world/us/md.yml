@@ -1,0 +1,27 @@
+---
+- code: baltimore
+  type: metroarea
+- code: columbia
+  type: metroarea
+- code: towson
+  type: metroarea
+- code: california
+  type: metroarea
+- code: lexington_park
+  type: metroarea
+- code: cumberland
+  type: metroarea
+- code: hagerstown
+  type: metroarea
+- code: salisbury
+  type: metroarea
+- code: bethesda
+  type: metroarea
+- code: frederick
+  type: metroarea
+- code: gaithersburg
+  type: metroarea
+- code: rockville
+  type: metroarea
+- code: silver_spring
+  type: metroarea

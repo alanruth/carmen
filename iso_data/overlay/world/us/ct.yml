@@ -1,0 +1,27 @@
+---
+- code: bridgeport
+  type: metroarea
+- code: danbury
+  type: metroarea
+- code: norwalk
+  type: metroarea
+- code: stamford
+  type: metroarea
+- code: stratford
+  type: metroarea
+- code: east_hartford
+  type: metroarea
+- code: hartford
+  type: metroarea
+- code: middletown
+  type: metroarea
+- code: west_hartford
+  type: metroarea
+- code: milford_city_(balance)
+  type: metroarea
+- code: new_haven
+  type: metroarea
+- code: new_london
+  type: metroarea
+- code: norwich
+  type: metroarea

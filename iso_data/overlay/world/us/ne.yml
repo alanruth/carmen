@@ -1,0 +1,7 @@
+---
+- code: grand_island
+  type: metroarea
+- code: lincoln
+  type: metroarea
+- code: omaha
+  type: metroarea

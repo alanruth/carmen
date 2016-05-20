@@ -1,0 +1,25 @@
+---
+- code: alexandria
+  type: metroarea
+- code: baton_rouge
+  type: metroarea
+- code: hammond
+  type: metroarea
+- code: houma
+  type: metroarea
+- code: thibodaux
+  type: metroarea
+- code: lafayette
+  type: metroarea
+- code: lake_charles
+  type: metroarea
+- code: monroe
+  type: metroarea
+- code: metairie
+  type: metroarea
+- code: new_orleans
+  type: metroarea
+- code: bossier_city
+  type: metroarea
+- code: shreveport
+  type: metroarea

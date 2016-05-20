@@ -1,0 +1,5 @@
+---
+- code: burlington
+  type: metroarea
+- code: south_burlington
+  type: metroarea

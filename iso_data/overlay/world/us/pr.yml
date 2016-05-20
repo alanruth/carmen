@@ -1,0 +1,23 @@
+---
+- code: aguadilla
+  type: metroarea
+- code: isabela
+  type: metroarea
+- code: arecibo
+  type: metroarea
+- code: guayama
+  type: metroarea
+- code: mayagüez
+  type: metroarea
+- code: ponce
+  type: metroarea
+- code: san_germán
+  type: metroarea
+- code: caguas
+  type: metroarea
+- code: carolina
+  type: metroarea
+- code: guaynabo
+  type: metroarea
+- code: san_juan
+  type: metroarea

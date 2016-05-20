@@ -1,0 +1,13 @@
+---
+en:
+  world:
+    us:
+      ri:
+        providence:
+          name: Providence
+          description: Providence-Warwick, RI-MA
+          cbsa_name: Providence-Warwick, RI-MA
+        warwick:
+          name: Warwick
+          description: Providence-Warwick, RI-MA
+          cbsa_name: Providence-Warwick, RI-MA

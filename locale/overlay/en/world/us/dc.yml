@@ -1,0 +1,9 @@
+---
+en:
+  world:
+    us:
+      dc:
+        washington:
+          name: Washington
+          description: Washington-Arlington-Alexandria, DC-VA-MD-WV
+          cbsa_name: Washington-Arlington-Alexandria, DC-VA-MD-WV

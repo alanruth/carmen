@@ -1,0 +1,57 @@
+---
+en:
+  world:
+    us:
+      ct:
+        bridgeport:
+          name: Bridgeport
+          description: Bridgeport-Stamford-Norwalk, CT
+          cbsa_name: Bridgeport-Stamford-Norwalk, CT
+        danbury:
+          name: Danbury
+          description: Bridgeport-Stamford-Norwalk, CT
+          cbsa_name: Bridgeport-Stamford-Norwalk, CT
+        norwalk:
+          name: Norwalk
+          description: Bridgeport-Stamford-Norwalk, CT
+          cbsa_name: Bridgeport-Stamford-Norwalk, CT
+        stamford:
+          name: Stamford
+          description: Bridgeport-Stamford-Norwalk, CT
+          cbsa_name: Bridgeport-Stamford-Norwalk, CT
+        stratford:
+          name: Stratford
+          description: Bridgeport-Stamford-Norwalk, CT
+          cbsa_name: Bridgeport-Stamford-Norwalk, CT
+        east_hartford:
+          name: East Hartford
+          description: Hartford-West Hartford-East Hartford, CT
+          cbsa_name: Hartford-West Hartford-East Hartford, CT
+        hartford:
+          name: Hartford
+          description: Hartford-West Hartford-East Hartford, CT
+          cbsa_name: Hartford-West Hartford-East Hartford, CT
+        middletown:
+          name: Middletown
+          description: Hartford-West Hartford-East Hartford, CT
+          cbsa_name: Hartford-West Hartford-East Hartford, CT
+        west_hartford:
+          name: West Hartford
+          description: Hartford-West Hartford-East Hartford, CT
+          cbsa_name: Hartford-West Hartford-East Hartford, CT
+        milford_city_(balance):
+          name: Milford city (balance)
+          description: New Haven-Milford, CT
+          cbsa_name: New Haven-Milford, CT
+        new_haven:
+          name: New Haven
+          description: New Haven-Milford, CT
+          cbsa_name: New Haven-Milford, CT
+        new_london:
+          name: New London
+          description: Norwich-New London, CT
+          cbsa_name: Norwich-New London, CT
+        norwich:
+          name: Norwich
+          description: Norwich-New London, CT
+          cbsa_name: Norwich-New London, CT

@@ -1,0 +1,53 @@
+---
+en:
+  world:
+    us:
+      la:
+        alexandria:
+          name: Alexandria
+          description: Alexandria, LA
+          cbsa_name: Alexandria, LA
+        baton_rouge:
+          name: Baton Rouge
+          description: Baton Rouge, LA
+          cbsa_name: Baton Rouge, LA
+        hammond:
+          name: Hammond
+          description: Hammond, LA
+          cbsa_name: Hammond, LA
+        houma:
+          name: Houma
+          description: Houma-Thibodaux, LA
+          cbsa_name: Houma-Thibodaux, LA
+        thibodaux:
+          name: Thibodaux
+          description: Houma-Thibodaux, LA
+          cbsa_name: Houma-Thibodaux, LA
+        lafayette:
+          name: Lafayette
+          description: Lafayette, LA
+          cbsa_name: Lafayette, LA
+        lake_charles:
+          name: Lake Charles
+          description: Lake Charles, LA
+          cbsa_name: Lake Charles, LA
+        monroe:
+          name: Monroe
+          description: Monroe, LA
+          cbsa_name: Monroe, LA
+        metairie:
+          name: Metairie
+          description: New Orleans-Metairie, LA
+          cbsa_name: New Orleans-Metairie, LA
+        new_orleans:
+          name: New Orleans
+          description: New Orleans-Metairie, LA
+          cbsa_name: New Orleans-Metairie, LA
+        bossier_city:
+          name: Bossier City
+          description: Shreveport-Bossier City, LA
+          cbsa_name: Shreveport-Bossier City, LA
+        shreveport:
+          name: Shreveport
+          description: Shreveport-Bossier City, LA
+          cbsa_name: Shreveport-Bossier City, LA

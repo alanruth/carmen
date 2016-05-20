@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    us:
+      ms:
+        jackson:
+          name: Jackson
+          description: Jackson, MS
+          cbsa_name: Jackson, MS
+        biloxi:
+          name: Biloxi
+          description: Gulfport-Biloxi-Pascagoula, MS
+          cbsa_name: Gulfport-Biloxi-Pascagoula, MS
+        gulfport:
+          name: Gulfport
+          description: Gulfport-Biloxi-Pascagoula, MS
+          cbsa_name: Gulfport-Biloxi-Pascagoula, MS
+        pascagoula:
+          name: Pascagoula
+          description: Gulfport-Biloxi-Pascagoula, MS
+          cbsa_name: Gulfport-Biloxi-Pascagoula, MS
+        hattiesburg:
+          name: Hattiesburg
+          description: Hattiesburg, MS
+          cbsa_name: Hattiesburg, MS

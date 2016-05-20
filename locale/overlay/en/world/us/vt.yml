@@ -1,0 +1,13 @@
+---
+en:
+  world:
+    us:
+      vt:
+        burlington:
+          name: Burlington
+          description: Burlington-South Burlington, VT
+          cbsa_name: Burlington-South Burlington, VT
+        south_burlington:
+          name: South Burlington
+          description: Burlington-South Burlington, VT
+          cbsa_name: Burlington-South Burlington, VT

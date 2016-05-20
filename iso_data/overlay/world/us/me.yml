@@ -1,0 +1,11 @@
+---
+- code: bangor
+  type: metroarea
+- code: auburn
+  type: metroarea
+- code: lewiston
+  type: metroarea
+- code: portland
+  type: metroarea
+- code: south_portland
+  type: metroarea

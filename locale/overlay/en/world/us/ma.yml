@@ -1,0 +1,41 @@
+---
+en:
+  world:
+    us:
+      ma:
+        barnstable_town:
+          name: Barnstable Town
+          description: Barnstable Town, MA
+          cbsa_name: Barnstable Town, MA
+        boston:
+          name: Boston
+          description: Boston-Cambridge-Newton, MA-NH
+          cbsa_name: Boston-Cambridge-Newton, MA-NH
+        cambridge:
+          name: Cambridge
+          description: Boston-Cambridge-Newton, MA-NH
+          cbsa_name: Boston-Cambridge-Newton, MA-NH
+        framingham:
+          name: Framingham
+          description: Boston-Cambridge-Newton, MA-NH
+          cbsa_name: Boston-Cambridge-Newton, MA-NH
+        newton:
+          name: Newton
+          description: Boston-Cambridge-Newton, MA-NH
+          cbsa_name: Boston-Cambridge-Newton, MA-NH
+        waltham:
+          name: Waltham
+          description: Boston-Cambridge-Newton, MA-NH
+          cbsa_name: Boston-Cambridge-Newton, MA-NH
+        pittsfield:
+          name: Pittsfield
+          description: Pittsfield, MA
+          cbsa_name: Pittsfield, MA
+        springfield:
+          name: Springfield
+          description: Springfield, MA
+          cbsa_name: Springfield, MA
+        worcester:
+          name: Worcester
+          description: Worcester, MA-CT
+          cbsa_name: Worcester, MA-CT

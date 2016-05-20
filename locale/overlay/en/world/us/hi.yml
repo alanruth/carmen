@@ -1,0 +1,21 @@
+---
+en:
+  world:
+    us:
+      hi:
+        kahului:
+          name: Kahului
+          description: Kahului-Wailuku-Lahaina, HI
+          cbsa_name: Kahului-Wailuku-Lahaina, HI
+        lahaina:
+          name: Lahaina
+          description: Kahului-Wailuku-Lahaina, HI
+          cbsa_name: Kahului-Wailuku-Lahaina, HI
+        wailuku:
+          name: Wailuku
+          description: Kahului-Wailuku-Lahaina, HI
+          cbsa_name: Kahului-Wailuku-Lahaina, HI
+        urban_honolulu:
+          name: Urban Honolulu
+          description: Urban Honolulu, HI
+          cbsa_name: Urban Honolulu, HI

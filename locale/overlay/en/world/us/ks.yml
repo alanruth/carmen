@@ -1,0 +1,29 @@
+---
+en:
+  world:
+    us:
+      ks:
+        kansas_city:
+          name: Kansas City
+          description: Kansas City, MO-KS
+          cbsa_name: Kansas City, MO-KS
+        overland_park:
+          name: Overland Park
+          description: Kansas City, MO-KS
+          cbsa_name: Kansas City, MO-KS
+        lawrence:
+          name: Lawrence
+          description: Lawrence, KS
+          cbsa_name: Lawrence, KS
+        manhattan:
+          name: Manhattan
+          description: Manhattan, KS
+          cbsa_name: Manhattan, KS
+        topeka:
+          name: Topeka
+          description: Topeka, KS
+          cbsa_name: Topeka, KS
+        wichita:
+          name: Wichita
+          description: Wichita, KS
+          cbsa_name: Wichita, KS

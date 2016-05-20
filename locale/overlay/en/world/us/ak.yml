@@ -1,0 +1,13 @@
+---
+en:
+  world:
+    us:
+      ak:
+        anchorage:
+          name: Anchorage
+          description: Anchorage, AK
+          cbsa_name: Anchorage, AK
+        fairbanks:
+          name: Fairbanks
+          description: Fairbanks, AK
+          cbsa_name: Fairbanks, AK

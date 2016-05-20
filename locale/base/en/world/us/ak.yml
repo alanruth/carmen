@@ -5,11 +5,16 @@ en:
       ak:
         anchorage:
           name: Anchorage
+          description: 'dddd'
         fairbanks:
           name: Fairbanks
+          description: 'sssssss'
         juneau:
           name: Juneau
+          description: 'ffffff'
         kodiak:
           name: Kodiak
+          description: 'ssssszzz'
         ketchikan:
           name: ketchikan
+          description: 'xxxxxxx'
