@@ -32,8 +32,16 @@ module Carmen
       @subregions ||= load_subregions.freeze
     end
 
+    def metroareas
+      subregions.typed('metroarea')
+    end
+
     def subregions?
       !subregions.empty?
+    end
+
+    def metroareas?
+      subregions?
     end
 
     def subregion_data_path
